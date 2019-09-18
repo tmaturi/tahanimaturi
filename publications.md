@@ -7,17 +7,20 @@ title: Publications
  <br>
  
 ### To appear
- 
-- M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals [[preprint version](pdfs/jstp19-190102.pdf){:target="_blank"}]
+
 - **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
-- T. He, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric Predictive Inference for European Option Pricing based on the Binomial Tree Model. Journal of the Operational Research Society. [[preprint version](pdfs/NPI_European_option_pricing_Binomial_tree.pdf){:target="_blank"}]
+- X. Huang, F.P.A. Coolen, **T. Coolen-Maturi**, Y. Zhang. A new study on reliability importance analysis of phased mission systems. IEEE Transactions on Reliability, to appear.
 - **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-18.zip)]
  
   <br>
   
 ### 2019
+- T. He, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Nonparametric predictive inference for European option pricing based on the binomial tree model. Journal of the Operational Research Society, 70, 1692-1708. [[preprint version](pdfs/NPI_European_option_pricing_Binomial_tree.pdf){:target="_blank"}]
+- J. Chen, F.P.A. Coolen, **T. Coolen-Maturi** (2019). On nonparametric predictive inference for asset and European option trading in the binomial tree model. Journal of the Operational Research Society, 70, 1678-1691. 
+- M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals. Journal of Statistical Theory and Practice, 13:38.
+ [[preprint version](pdfs/jstp19-190102.pdf){:target="_blank"}]
 - F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [[preprint version](pdfs/Testing_betas_paper_R1.pdf){:target="_blank"}]
-- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice,13:15. [[preprint version](pdfs/NPI_RP_LRT_R1.pdf){:target="_blank"}]
+- F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice, 13:15. [[preprint version](pdfs/NPI_RP_LRT_R1.pdf){:target="_blank"}]
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi** (2019). A heuristic survival signature based approach for reliability-redundancy allocation. Reliability Engineering and System Safety, 185, 511-517. [[preprint version](pdfs/SRO_EJOR_Final.pdf){:target="_blank"}]
  
   <br>

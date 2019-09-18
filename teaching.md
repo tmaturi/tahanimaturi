@@ -12,11 +12,12 @@ title: Teaching
 - Statistical Concepts II  (Term 2: Lectures, Tutorials)
 - Probability I (Tutorials)
 
+<br>
 ### 2018-2019 
 - Mathematical Finance III /IV (Term 2: 20 Lectures, problem classes)
 - Statistical Concepts II  (Tutorials,  Computer Practicals)
 
-
+<br>
 ### 2012-2017 
 - Introduction to Mathematics and Statistics (MSc Finance and MSc Economics)
 - Econometrics Methods (MSc Finance and MSc Economics)
@@ -24,7 +25,7 @@ title: Teaching
 - Econometrics help sessions (BSc Business & Finance)
 - Applied Econometrics (BSc Economics & Finance)
 - Quantitative Research Methods (MSc Management Finance & MSc Islamic Finance)
-- Eviews and STATA
+<br>
 
 
 
@@ -32,7 +33,7 @@ title: Teaching
 - Multivariate Data Analysis and Forecasting (BSc & MSc)
 - Quantitative  Methods (MSc Finance)
 
-
+<br>
 ### 2002-2004
 - Introduction to Statistics (Lectures and Tutorials)
 - Probability Theory I (Tutorials)
