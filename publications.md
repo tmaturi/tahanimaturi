@@ -16,7 +16,7 @@ title: Publications
   
 ### 2019
 - T. He, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Nonparametric predictive inference for European option pricing based on the binomial tree model. Journal of the Operational Research Society, 70, 1692-1708. [[preprint version](pdfs/NPI_European_option_pricing_Binomial_tree.pdf){:target="_blank"}]
-- J. Chen, F.P.A. Coolen, **T. Coolen-Maturi** (2019). On nonparametric predictive inference for asset and European option trading in the binomial tree model. Journal of the Operational Research Society, 70, 1678-1691. 
+- J. Chen, F.P.A. Coolen, **T. Coolen-Maturi** (2019). On nonparametric predictive inference for asset and European option trading in the binomial tree model. Journal of the Operational Research Society, 70, 1678-1691. [[preprint version](pdfs/Chen-JORS-accepted-1907.pdf){:target="_blank"}]
 - M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals. Journal of Statistical Theory and Practice, 13:38.
  [[preprint version](pdfs/jstp19-190102.pdf){:target="_blank"}]
 - F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [[preprint version](pdfs/Testing_betas_paper_R1.pdf){:target="_blank"}]
