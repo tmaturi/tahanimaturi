@@ -10,19 +10,25 @@ title: Research
 
 ### Current PhD students
 
-- Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Nora Alalyani: 'Reproducibility of one-way layout tests' (to start October 2019, jointly supervised by Frank Coolen).
 
-- Mr Abdulmajeed Alharbi: 'Nonparametric predictive inference for classification' (started October 2018, 1st supervisor Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (to start October 2019, jointly supervised by Frank Coolen).
 
-- Mr Masad Alrasheedi: 'Nonparametric predictive inference for credit scoring and loan data' (started October 2018, 2nd supervisor Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (to start October 2019, jointly supervised by Frank Coolen).
 
-- Mr Assamh Alluhayb: 'Nonparametric predictive inference bootstrap with right-censored data' (started April 2018, jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
 
-- Ms Andrea Mikulandova: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca), Department of Mathematical Sciences, Durham University.
+- Mr Abdulmajeed Alharbi: 'Nonparametric predictive inference for classification' (started October 2018, 1st supervisor Frank Coolen).
 
-- Ms Fatimah Alghamdi: 'Reproducibility of statistical tests based on randomised response data' (started October 2017, jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Mr Masad Alrasheedi: 'Nonparametric predictive inference for credit scoring and loan data' (started October 2018, 2nd supervisor Frank Coolen).
 
-- Mr Ali Mahnashi: 'Nonparametric predictive inference for multiple future observations based on right-censored data' (started April 2017, jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Mr Assamh Alluhayb: 'Nonparametric predictive inference bootstrap with right-censored data' (started April 2018, jointly supervised by Frank Coolen).
+
+- Ms Andrea Mikulandova: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
+
+- Ms Fatimah Alghamdi: 'Reproducibility of statistical tests based on randomised response data' (started October 2017, jointly supervised by Frank Coolen).
+
+- Mr Ali Mahnashi: 'Nonparametric predictive inference for multiple future observations based on right-censored data' (started April 2017, jointly supervised by Prof Frank Coolen).
 
 
 
