@@ -10,7 +10,7 @@ title: Research
 
 ### Current PhD students
 
-- Nora Alalyani: 'Reproducibility of one-way layout tests' (to start October 2019, jointly supervised by Frank Coolen).
+- Norah Alalyani: 'Reproducibility of one-way layout tests' (to start October 2019, jointly supervised by Frank Coolen).
 
 - Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (to start October 2019, jointly supervised by Frank Coolen).
 
