@@ -7,7 +7,7 @@ title: Teaching
 ## Teaching <br><br>
 
 
-
+<br>
 ### 2019-2020 
 - Statistical Concepts II  (Term 2: Lectures, Tutorials)
 - Probability I (Tutorials)
@@ -25,10 +25,8 @@ title: Teaching
 - Econometrics help sessions (BSc Business & Finance)
 - Applied Econometrics (BSc Economics & Finance)
 - Quantitative Research Methods (MSc Management Finance & MSc Islamic Finance)
+
 <br>
-
-
-
 ### 2011-2012
 - Multivariate Data Analysis and Forecasting (BSc & MSc)
 - Quantitative  Methods (MSc Finance)

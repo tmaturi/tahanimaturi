@@ -4,17 +4,18 @@ title: Research
 
 ## Research Interests
 
+<br>
 [Nonparametric Predictive Inference](https://npi-statistics.com){:target="_blank"}, Nonparametric Statistics, Modeling dependence, Statistical methodology in Finance, Reliability and Survival analysis, Diagnostic accuracy including ROC analysis, Uncertainty quantification including imprecise probability.
 
 <br>
 
 ### Current PhD students
+<br>
+- Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
-- Norah Alalyani: 'Reproducibility of one-way layout tests' (to start October 2019, jointly supervised by Frank Coolen).
+- Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (started October 2019, jointly supervised by Frank Coolen).
 
-- Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (to start October 2019, jointly supervised by Frank Coolen).
-
-- Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (to start October 2019, jointly supervised by Frank Coolen).
+- Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
 
 - Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
 
@@ -35,7 +36,7 @@ title: Research
 <br>
 
 ### Past PhD students
-
+<br>
 - Mr Banjaran Surya Indrastomo: 'Political Economy of the Emergence of Islamic Finance: A Ground Theory Approach to Negotiating the Institutionalisation of Islamic Finance in Indonesia' (1st supervisor Prof Mehmet Asutay), Durham University Business School.
 
 - Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
