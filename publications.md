@@ -12,7 +12,7 @@ title: Publications
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi**, Y. Zhang. A new study on reliability importance analysis of phased mission systems. IEEE Transactions on Reliability, to appear.
 - **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
-and C. Bendtsen. Statistical reproducibility for pairwise $t$-tests in
+and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
  
   <br>
