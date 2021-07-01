@@ -8,7 +8,7 @@ title: Publications
  
 ### To appear
 
-- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
+
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi**, Y. Zhang. A new study on reliability importance analysis of phased mission systems. IEEE Transactions on Reliability, to appear.
 - **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
@@ -20,7 +20,8 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
 -  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika.
 <br>
 
- ### 2020
+### 2020
+- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods, 49(3), 697-725. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
 <br>
   
 ### 2019
