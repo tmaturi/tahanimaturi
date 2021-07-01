@@ -14,8 +14,14 @@ title: Publications
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
+ <br> 
  
-  <br>
+### 2021
+-  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika.
+<br>
+
+ ### 2020
+<br>
   
 ### 2019
 - T. He, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Nonparametric predictive inference for European option pricing based on the binomial tree model. Journal of the Operational Research Society, 70, 1692-1708. [[preprint version](pdfs/NPI_European_option_pricing_Binomial_tree.pdf){:target="_blank"}]
