@@ -18,6 +18,7 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
  
 ### 2021
 -  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika.
+-  **T. Coolen-Maturi**, F.P.A. Coolen, N. Balakrishnan (2021). The joint survival signature of coherent systems with shared components. Reliability Engineering & System Safety, 207, 107350. [[preprint version](pdfs/Joint-Surv-Sign-RESS-accepted-201118.pdf){:target="_blank"}]
 <br>
 
 ### 2020
