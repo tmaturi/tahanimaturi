@@ -104,7 +104,7 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
 ### 2010
 - **T.A. Maturi** and A. Elsayigh (2010). A Comparison of Correlation Coefficients via a Three-Step Bootstrap Approach. Journal of Mathematics Research, 2(2), 3-10.
 - **T.A. Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2010). Nonparametric predictive comparison of lifetime data under progressive censoring. Journal of Statistical Planning and Inference, 140 (2), 515-525.
-- **T.A. Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2010). Nonparametric predictive inference for competing risks. Journal of Risk and Reliability, 224(1), 11-26.
+- **T.A. Maturi**, P. Coolen-Schrijner and F.P.A. Coolen (2010). Nonparametric predictive inference for competing risks. Journal of Risk and Reliability, 224(1), 11-26. [[preprint version](pdfs/jrr-coolen-competing-risks_rev.pdf){:target="_blank"}]
  
   <br>
   
