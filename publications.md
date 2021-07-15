@@ -57,7 +57,7 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
   
 ### 2016
 - **T. Coolen-Maturi**, F.P.A. Coolen and N. Muhammad (2016). Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice, 10, 515-538. [[preprint version](pdfs/JSTP-Copulas-1506-rev.pdf){:target="_blank"}]
-- F.P.A. Coolen, **T. Coolen-Maturi** (2016). On the structure function and survival signature for system reliability. Safety and Reliability, 36(2), 77-87.
+- F.P.A. Coolen, **T. Coolen-Maturi** (2016). On the structure function and survival signature for system reliability. Safety and Reliability, 36(2), 77-87. [[preprint version](pdfs/JSARS16-Coolen.pdf){:target="_blank"}] 
 - **T. Coolen-Maturi** (2016). New weighted rank correlation coefficients sensitive to agreement on top and bottom rankings. Journal of Applied Statistics, 43(12), 2261-2279. [[preprint version](pdfs/EWRC_11092015rev.pdf){:target="_blank"}]
 - F.P.A. Coolen, **T. Coolen-Maturi** (2016). The structure function for system reliability as (imprecise) probability, Reliability Engineering & System Safety, 154, 180-187. [[preprint version](pdfs/RESS-StructFunction-rev2-1602.pdf){:target="_blank"}]
  
