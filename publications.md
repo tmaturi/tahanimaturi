@@ -13,7 +13,7 @@ title: Publications
 - **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
-pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
+pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
  <br> 
  
 ### 2021
