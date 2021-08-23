@@ -46,7 +46,7 @@ title: Research
 
 ### Past PhD students
 <br>
-- Mr Assamh Alluhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen), , Department of Mathematical Sciences, Durham University. 
+- Mr Assamh Al-Luhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
 
 - Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
 
