@@ -11,6 +11,17 @@ title: Research
 
 ### Current PhD students
 <br>
+
+- Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
+
+- Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
+
+- Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
+
+- Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
+
+- Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
+
 - Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
 - Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (started October 2019, jointly supervised by Frank Coolen).
@@ -23,9 +34,7 @@ title: Research
 
 - Mr Masad Alrasheedi: 'Nonparametric predictive inference for credit scoring and loan data' (started October 2018, 2nd supervisor Frank Coolen).
 
-- Mr Assamh Alluhayb: 'Nonparametric predictive inference bootstrap with right-censored data' (started April 2018, jointly supervised by Frank Coolen).
-
-- Ms Andrea Mikulandova: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
+- Ms Andrea (Mikulandova) Simkus: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
 
 - Ms Fatimah Alghamdi: 'Reproducibility of statistical tests based on randomised response data' (started October 2017, jointly supervised by Frank Coolen).
 
@@ -37,11 +46,13 @@ title: Research
 
 ### Past PhD students
 <br>
-- Mr Banjaran Surya Indrastomo: 'Political Economy of the Emergence of Islamic Finance: A Ground Theory Approach to Negotiating the Institutionalisation of Islamic Finance in Indonesia' (1st supervisor Prof Mehmet Asutay), Durham University Business School.
+- Mr Assamh Alluhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen), , Department of Mathematical Sciences, Durham University. 
 
 - Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
 
 - Mr Junbin Chen (2019): 'Contributions to nonparametric predictive inference for bernoulli data with applications in finance' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+
+- Mr Banjaran Surya Indrastomo (2019): 'Political Economy of the Emergence of Islamic Finance: A Ground Theory Approach to Negotiating the Institutionalisation of Islamic Finance in Indonesia' (1st supervisor Prof Mehmet Asutay), Durham University Business School.
 
 - Mr Howard Dove (Mr Hoang Duong, 2018): 'Distress Risk, Financial Crisis and Investment Strategies: Evidence from the United Kingdom' (1st supervisor Prof Rob Dixon), Durham University Business School.
 
