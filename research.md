@@ -12,21 +12,21 @@ title: Research
 ### Current PhD students
 <br>
 
-- Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
+- Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
-- Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
+- Ms Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
 
-- Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
+- Mr Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
 
-- Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
+- Ms Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
 
-- Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
+- Mr Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
 
-- Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
+- Ms Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
-- Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (started October 2019, jointly supervised by Frank Coolen).
+- Mr Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (started October 2019, jointly supervised by Frank Coolen).
 
-- Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
+- Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
 
 - Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
 
