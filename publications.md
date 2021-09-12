@@ -16,6 +16,11 @@ and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
 - **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear.
+- F.P.A. Coolen and **T. Coolen-Maturi**. Survival Signatures for System Reliability, Wiley StatsRef: Statistics Reference Online, to appear.
+ \url{https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112}
+ 
+
+
 
  <br> 
  
@@ -26,6 +31,8 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
 -  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2021). Reliability analysis for systems based on degradation rates and hard failure
 thresholds changing with degradation levels. Reliability Engineering & System Safety, 216,  108007.
 - M.H. Alabdulhadi, **T. Coolen-Maturi**, F.P.A. Coolen (2021). Nonparametric predictive inference for comparison of two diagnostic tests. Communications in Statistics - Theory and Methods, 50(19):  4470-4486.
+- F.P.A. Coolen and **T. Coolen-Maturi**  (2021). The survival signature for quantifying system reliability: an introductory overview from practical perspective. In Reliability Engineering and Computational Intelligence. van Gulijk, Coen & Zaitseva, Elena Springer, pages 23-37.
+[[url]](https://doi.org/10.1007/978-3-030-74556-1_2)
 
 
 <br>
