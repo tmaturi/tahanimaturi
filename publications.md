@@ -14,11 +14,15 @@ title: Publications
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
+- M. Chang, X. Huang,  F.P.A. Coolen and T. Coolen-Maturi. Reliability analysis for systems subject to both degradation
+rates and hard failure thresholds changing with degradation levels. Reliability Engineering \& System Safety, to appear.
+- T. Coolen-Maturi and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
  <br> 
  
 ### 2021
 -  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika.
 -  **T. Coolen-Maturi**, F.P.A. Coolen, N. Balakrishnan (2021). The joint survival signature of coherent systems with shared components. Reliability Engineering & System Safety, 207, 107350. [[preprint version](pdfs/Joint-Surv-Sign-RESS-accepted-201118.pdf){:target="_blank"}]
+-  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.
 <br>
 
 ### 2020
