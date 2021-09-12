@@ -25,6 +25,9 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
 -  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.
 -  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2021). Reliability analysis for systems based on degradation rates and hard failure
 thresholds changing with degradation levels. Reliability Engineering & System Safety, 216,  108007.
+- M.H. Alabdulhadi, **T. Coolen-Maturi**, F.P.A. Coolen (2021). Nonparametric predictive inference for comparison of two diagnostic tests. Communications in Statistics - Theory and Methods, 50(19):  4470-4486.
+
+
 <br>
 
 ### 2020
