@@ -10,19 +10,19 @@ title: Publications
 
 
 
-- **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
+
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
-- M. Chang, X. Huang,  F.P.A. Coolen and T. Coolen-Maturi. Reliability analysis for systems subject to both degradation
-rates and hard failure thresholds changing with degradation levels. Reliability Engineering \& System Safety, to appear.
-- T. Coolen-Maturi and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
+- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
  <br> 
  
 ### 2021
--  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika.
+-  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika, 84,  913–925.
 -  **T. Coolen-Maturi**, F.P.A. Coolen, N. Balakrishnan (2021). The joint survival signature of coherent systems with shared components. Reliability Engineering & System Safety, 207, 107350. [[preprint version](pdfs/Joint-Surv-Sign-RESS-accepted-201118.pdf){:target="_blank"}]
 -  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.
+-  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2021). Reliability analysis for systems based on degradation rates and hard failure
+thresholds changing with degradation levels. Reliability Engineering & System Safety, 216,  108007.
 <br>
 
 ### 2020
@@ -39,7 +39,7 @@ rates and hard failure thresholds changing with degradation levels. Reliability 
 - F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [[preprint version](pdfs/Testing_betas_paper_R1.pdf){:target="_blank"}]
 - F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice, 13:15. [[preprint version](pdfs/NPI_RP_LRT_R1.pdf){:target="_blank"}]
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi** (2019). A heuristic survival signature based approach for reliability-redundancy allocation. Reliability Engineering and System Safety, 185, 511-517. [[preprint version](pdfs/SRO_EJOR_Final.pdf){:target="_blank"}]
- 
+- **T. Coolen-Maturi**, F.P.A. Coolen (2019). Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A, 182: 1189-1204. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
   <br>
   
 ### 2018
