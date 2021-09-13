@@ -140,10 +140,14 @@ thresholds changing with degradation levels. Reliability Engineering & System Sa
  
  <br>
  
+
+ 
 ### 2018-2019
-- A.M. Mahnashi, T. Coolen-Maturi, F.P.A. Coolen. Generalizing nonparametric predictive inference for right-censored data to two future observations. 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, to appear.
-- A.S.M. Al Luhayb, T. Coolen-Maturi, F.P.A. Coolen. Generalizing Banks’ smoothed bootstrap method for right-censored data. 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, to appear.
-- A.S.M. Al Luhayb, T. Coolen-Maturi, F.P.A. Coolen (2019). Smoothed bootstrap for survival function inference. Proceedings of the International Conference on Information and Digital Technologies IDT'2019, Zilina (Slovakia), June 2019, pp 297-304.
+- A.M. Mahnashi, **T. Coolen-Maturi**, F.P.A. Coolen. Generalizing nonparametric predictive inference for right-censored data to two future observations. Proceedings of the 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, pp. 2671-2678.
+- A.S.M. Al Luhayb, **T. Coolen-Maturi**, F.P.A. Coolen. Generalizing Banks’ smoothed bootstrap method for right-censored data. Proceedings of the 29th European Safety and Reliability Conference (ESREL) 2019, Hannover (Germany), September 2019, pp. 894-901.
+- A.S.M. Al Luhayb, **T. Coolen-Maturi**, F.P.A. Coolen (2019). Smoothed bootstrap for survival function inference. Proceedings of the International Conference on Information and Digital Technologies IDT'2019, Zilina (Slovakia), June 2019, pp 297-304.
+
+
 
 <br> 
  
