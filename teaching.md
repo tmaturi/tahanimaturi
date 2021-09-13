@@ -8,13 +8,25 @@ title: Teaching
 
 
 <br>
+
+### 2021-2022 
+- Introduction to Statistics for Data Science (Master of Data Science)
+(Term 1: Lectures and Workshops)
+- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials)
+<br>
+
+### 2020-2021 
+- Introduction to Statistics for Data Science (Master of Data Science)
+(Term 1: Lectures and Workshops)
+<br>
+
 ### 2019-2020 
-- Statistical Concepts II  (Term 2: Lectures, Tutorials)
+- Statistical Concepts II  (Term 2: Lectures, Problem classes, Tutorials)
 - Probability I (Tutorials)
 
 <br>
 ### 2018-2019 
-- Mathematical Finance III /IV (Term 2: 20 Lectures, problem classes)
+- Mathematical Finance III /IV (Term 2: 20 Lectures, Problem classes)
 - Statistical Concepts II  (Tutorials,  Computer Practicals)
 
 <br>
