@@ -16,7 +16,7 @@ and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
 - **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear.
-- F.P.A. Coolen and **T. Coolen-Maturi**. Survival Signatures for System Reliability, Wiley StatsRef: Statistics Reference Online, to appear. [[Link]](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112)
+
  
 
 
@@ -24,6 +24,8 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
  <br> 
  
 ### 2021
+- F.P.A. Coolen and **T. Coolen-Maturi** (2021). Survival Signatures for System Reliability. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). [[Link]](https://doi.org/10.1002/9781118445112.stat08331)
+
 -  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika, 84,  913–925.
 -  **T. Coolen-Maturi**, F.P.A. Coolen, N. Balakrishnan (2021). The joint survival signature of coherent systems with shared components. Reliability Engineering & System Safety, 207, 107350. [[preprint version](pdfs/Joint-Surv-Sign-RESS-accepted-201118.pdf){:target="_blank"}]
 -  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.
