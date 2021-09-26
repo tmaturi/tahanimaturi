@@ -14,8 +14,8 @@ title: Publications
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
-- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear.
-- **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear.
+- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
+- **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/Comm_Stat_Sim_ Comp_ordered_future_Sep2020rev.pdf){:target="_blank"}] 
 
  
 
