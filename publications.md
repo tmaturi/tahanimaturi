@@ -39,7 +39,7 @@ thresholds changing with degradation levels. Reliability Engineering & System Sa
 <br>
 
 ### 2020
-- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics - Theory and Methods, 49(3), 697-725. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
+- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi (2020). Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics - Theory and Methods, 49(3), 697-725. [[preprint version](pdfs/Comu_Stat_2018_rev.pdf){:target="_blank"}]
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi**, Y. Zhang (2020). A new study on reliability importance analysis of phased mission systems. IEEE Transactions on Reliability,  69(2), 522-532.
 <br>
   
