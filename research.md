@@ -11,7 +11,7 @@ title: Research
 
 ### Current PhD students
 <br>
-
+- Ms Hadeer Ghonem: Performance `Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
 - Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
 - Ms Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
