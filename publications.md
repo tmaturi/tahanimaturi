@@ -16,10 +16,9 @@ and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
 - **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
+- T. He, F.P.A. Coolen and **T. Coolen-Maturi**. Pricing exotic options in the incomplete market: an imprecise probability method. Applied Stochastic Models in Business and Industry, to appear. [[preprint version](pdfs/NPI-for-exotic-options-ASMBI.pdf){:target="_blank"}]  
 
  
-
-
 
  <br> 
  
