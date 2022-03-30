@@ -58,7 +58,8 @@ thresholds changing with degradation levels. Reliability Engineering & System Sa
 - F. Marques, F.P.A. Coolen, **T. Coolen-Maturi** (2019).  Introducing nonparametric predictive inference methods for reproducibility of likelihood ratio tests,  Journal of Statistical Theory and Practice, 13:15. [[preprint version](pdfs/NPI_RP_LRT_R1.pdf){:target="_blank"}]
 - X. Huang, F.P.A. Coolen, **T. Coolen-Maturi** (2019). A heuristic survival signature based approach for reliability-redundancy allocation. Reliability Engineering and System Safety, 185, 511-517. [[preprint version](pdfs/SRO_EJOR_Final.pdf){:target="_blank"}]
 - **T. Coolen-Maturi**, F.P.A. Coolen (2019). Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A, 182: 1189-1204. [[preprint version](pdfs/NPI_CreditScoring_V2_rev.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-JRSS-SA-Feb-18-0052-R1.zip)]
-  <br>
+ 
+ <br>
   
 ### 2018
 - N. Muhammad, **T. Coolen-Maturi** and F.P.A. Coolen (2018). Nonparametric predictive inference with parametric copulas for combining bivariate diagnostic tests. Statistics, Optimization & Information Computing, 6, 398-408. [[preprint version](pdfs/SOIC-FC-1708.pdf){:target="_blank"}] [[final version](http://www.iapress.org/index.php/soic/article/view/soic.20180906/359){:target="_blank"}]
