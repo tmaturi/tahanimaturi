@@ -25,6 +25,8 @@ title: Publications
 and C. Bendtsen (2022). Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research, 31(4), 673-688. [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
 
+<br>
+
 ### 2021
 - F.P.A. Coolen and **T. Coolen-Maturi** (2021). Survival Signatures for System Reliability. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). [[Link]](https://doi.org/10.1002/9781118445112.stat08331)
 
