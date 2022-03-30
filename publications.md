@@ -11,9 +11,7 @@ title: Publications
 
 
 
-- A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
-and C. Bendtsen. Statistical reproducibility for pairwise t-tests in
-pharmaceutical research. Statistical Methods in Medical Research [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
+
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
 - **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
 - T. He, F.P.A. Coolen and **T. Coolen-Maturi**. Pricing exotic options in the incomplete market: an imprecise probability method. Applied Stochastic Models in Business and Industry, to appear. [[preprint version](pdfs/NPI-for-exotic-options-ASMBI.pdf){:target="_blank"}]  
@@ -21,7 +19,12 @@ pharmaceutical research. Statistical Methods in Medical Research [[preprint vers
  
 
  <br> 
- 
+
+### 2022
+- A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
+and C. Bendtsen (2022). Statistical reproducibility for pairwise t-tests in
+pharmaceutical research. Statistical Methods in Medical Research, 31(4), 673-688. [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
+
 ### 2021
 - F.P.A. Coolen and **T. Coolen-Maturi** (2021). Survival Signatures for System Reliability. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). [[Link]](https://doi.org/10.1002/9781118445112.stat08331)
 
