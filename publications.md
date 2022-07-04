@@ -14,13 +14,19 @@ title: Publications
 
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
 - **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
-- T. He, F.P.A. Coolen and **T. Coolen-Maturi**. Pricing exotic options in the incomplete market: an imprecise probability method. Applied Stochastic Models in Business and Industry, to appear. [[preprint version](pdfs/NPI-for-exotic-options-ASMBI.pdf){:target="_blank"}]  
+
 
  
 
  <br> 
 
 ### 2022
+- S. Moral-García, J. Abellán, **T. Coolen-Maturi**, F.P.A. Coolen (2022).
+A cost-sensitive Imprecise Credal Decision Tree based on Nonparametric Predictive Inference,
+Applied Soft Computing, 123, 108916. [[preprint version](pdfs/Serafin-manuscript-2022-accepted.pdf){:target="_blank"}] 
+
+- T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2022). Pricing exotic options in the incomplete market: an imprecise probability method. Applied Stochastic Models in Business and Industry, 38, 422-440. [[preprint version](pdfs/NPI-for-exotic-options-ASMBI.pdf){:target="_blank"}]  
+
 - A. Simkus, F.P.A. Coolen, **T. Coolen-Maturi**, N.A. Karp
 and C. Bendtsen (2022). Statistical reproducibility for pairwise t-tests in
 pharmaceutical research. Statistical Methods in Medical Research, 31(4), 673-688. [[preprint version](pdfs/article_reproducibility-210726.pdf){:target="_blank"}] [[R codes](rcodes/Rcodes-SMMR-May-2021.zip)]
