@@ -11,8 +11,10 @@ title: Research
 
 ### Current PhD students
 <br>
-- Mr  Rakan Alrekayan:  `Contributions to Nonparametric Predictive Inference` (started January 2022; jointly supervised by Frank Coolen)
+- Mr  Rakan Alrekayan:  `Contributions to Nonparametric Predictive Inference' (started January 2022; jointly supervised by Frank Coolen).
+
 - Ms Hadeer Ghonem: `Performance Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
+
 - Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
 - Ms Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
@@ -31,15 +33,13 @@ title: Research
 
 - Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
 
-- Mr Abdulmajeed Alharbi: 'Nonparametric predictive inference for classification' (started October 2018, 1st supervisor Frank Coolen).
-
 - Mr Masad Alrasheedi: 'Nonparametric predictive inference for credit scoring and loan data' (started October 2018, 2nd supervisor Frank Coolen).
 
 - Ms Andrea (Mikulandova) Simkus: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
 
 - Ms Fatimah Alghamdi: 'Reproducibility of statistical tests based on randomised response data' (started October 2017, jointly supervised by Frank Coolen).
 
-- Mr Ali Mahnashi: 'Nonparametric predictive inference for multiple future observations based on right-censored data' (started April 2017, jointly supervised by Prof Frank Coolen).
+
 
 
 
@@ -47,6 +47,11 @@ title: Research
 
 ### Past PhD students
 <br>
+- Mr Ali Mahnashi (2022): 'Contributions to Nonparametric predictive inference with right-censored data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+
+
+- Mr Abdulmajeed Alharbi (2022): 'Direct Nonparametric predictive inference classification trees' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+
 - Mr Assamh Al-Luhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
 
 - Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
