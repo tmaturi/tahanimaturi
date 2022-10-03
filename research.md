@@ -11,7 +11,11 @@ title: Research
 
 ### Current PhD students
 <br>
-- Mr  Rakan Alrekayan:  `Contributions to Nonparametric Predictive Inference' (started January 2022; jointly supervised by Frank Coolen).
+- Ms Hamdah Alshamari. `Contributions to Nonparametric Predictive Inference'  (started October 2022; 2nd supervisor Prof Frank Coolen). 
+- Ms Taghreed Ghazai Alnefaie. `Topics in Survival Signature'  (started October 2022; 1st supervisor Prof Frank Coolen). 
+
+
+- Mr  Rakan Alrekayan:  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
 
 - Ms Hadeer Ghonem: `Performance Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
 
@@ -33,7 +37,6 @@ title: Research
 
 - Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
 
-- Mr Masad Alrasheedi: 'Nonparametric predictive inference for credit scoring and loan data' (started October 2018, 2nd supervisor Frank Coolen).
 
 - Ms Andrea (Mikulandova) Simkus: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
 
@@ -47,6 +50,8 @@ title: Research
 
 ### Past PhD students
 <br>
+- Mr Masad Alrasheedi (2022): 'Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference' (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. 
+
 - Mr Ali Mahnashi (2022): 'Contributions to Nonparametric predictive inference with right-censored data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
 
 
