@@ -12,13 +12,13 @@ title: Teaching
 ### 2022-2023 
 - Introduction to Statistics for Data Science (Master of Data Science)
 (Term 1: Lectures and Workshops)
-- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials)
+- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials, Computer Practicals)
 <br>
 
 ### 2021-2022 
 - Introduction to Statistics for Data Science (Master of Data Science)
 (Term 1: Lectures and Workshops)
-- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials)
+- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials, Computer Practicals)
 <br>
 
 ### 2020-2021 
