@@ -19,15 +19,17 @@ title: Research
 
 - Ms Hadeer Ghonem: `Performance Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
 
+- Ms Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
+
+- Mr Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
+
 - Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
 - Ms Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
 
 - Mr Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
 
-- Ms Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
 
-- Mr Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
 
 - Ms Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
