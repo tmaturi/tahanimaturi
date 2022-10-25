@@ -37,7 +37,7 @@ pharmaceutical research. Statistical Methods in Medical Research, 31(4), 673-688
 
 -  F.P.A. Coolen, A.A.H. Ahmadini,  **T. Coolen-Maturi** (2021). Imprecise inference based on the log-rank test for accelerated life testing. Metrika, 84,  913–925.
 -  **T. Coolen-Maturi**, F.P.A. Coolen, N. Balakrishnan (2021). The joint survival signature of coherent systems with shared components. Reliability Engineering & System Safety, 207, 107350. [[preprint version](pdfs/Joint-Surv-Sign-RESS-accepted-201118.pdf){:target="_blank"}]
--  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.
+-  T. He, F.P.A. Coolen and **T. Coolen-Maturi** (2021). Nonparametric Predictive Inference for American Option Pricing based on the Binomial Tree Model. Communications in Statistics – Theory and Methods,  50 (20):  4657-4684.[[preprint version](pdfs/Revision-NPI-American-Option-Pricing.pdf){:target="_blank"}] 
 -  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2021). Reliability analysis for systems based on degradation rates and hard failure
 thresholds changing with degradation levels. Reliability Engineering & System Safety, 216,  108007.[[preprint version](pdfs/2021-RESS-Miaoxin.pdf){:target="_blank"}] 
 - M.H. Alabdulhadi, **T. Coolen-Maturi**, F.P.A. Coolen (2021). Nonparametric predictive inference for comparison of two diagnostic tests. Communications in Statistics - Theory and Methods, 50(19):  4470-4486.
