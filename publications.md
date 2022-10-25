@@ -42,7 +42,7 @@ pharmaceutical research. Statistical Methods in Medical Research, 31(4), 673-688
 thresholds changing with degradation levels. Reliability Engineering & System Safety, 216,  108007.[[preprint version](pdfs/2021-RESS-Miaoxin.pdf){:target="_blank"}] 
 - M.H. Alabdulhadi, **T. Coolen-Maturi**, F.P.A. Coolen (2021). Nonparametric predictive inference for comparison of two diagnostic tests. Communications in Statistics - Theory and Methods, 50(19):  4470-4486. [[preprint version](pdfs/Comparison_Comu_Stat_TM_20191227_rev.pdf)]
 - F.P.A. Coolen and **T. Coolen-Maturi**  (2021). The survival signature for quantifying system reliability: an introductory overview from practical perspective. In Reliability Engineering and Computational Intelligence. van Gulijk, Coen & Zaitseva, Elena Springer, pages 23-37.
-[[Link]](https://doi.org/10.1007/978-3-030-74556-1_2)
+[[Link]](https://doi.org/10.1007/978-3-030-74556-1_2) [[preprint version](pdfs/RECI20-Coolen.pdf)]
 
 
 <br>
