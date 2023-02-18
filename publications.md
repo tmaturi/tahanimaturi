@@ -9,17 +9,20 @@ title: Publications
 ### To appear
 
 
-
-- F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum. Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, to appear. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
+-  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** New reliability model for complex systems based on stochastic processes and survival signature, European Journal of Operational Research, to appear. [[preprint version](pdfs/EJOR-23-complex-systems-survival-signature.pdf){:target="_blank"}] 
 - **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
-- **T. Coolen-Maturi**.  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
 - A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}] 
 
  
 
  <br> 
+ 
+### 2023
+- F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum (2023). Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, 39(1): 68– 70. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
 
 ### 2022
+- **T. Coolen-Maturi** (2022).  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, 51(12), 7526-7543. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
+
 - S. Moral-García, J. Abellán, **T. Coolen-Maturi**, F.P.A. Coolen (2022).
 A cost-sensitive Imprecise Credal Decision Tree based on Nonparametric Predictive Inference,
 Applied Soft Computing, 123, 108916. [[preprint version](pdfs/Serafin-manuscript-2022-accepted.pdf){:target="_blank"}] 
