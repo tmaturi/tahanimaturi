@@ -20,6 +20,8 @@ title: Publications
 ### 2023
 - F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum (2023). Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, 39(1): 68– 70. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
 
+<br>
+
 ### 2022
 - **T. Coolen-Maturi** (2022).  The ordering of future observations from multiple groups. Communications in Statistics - Simulation and Computation, 51(12), 7526-7543. [[preprint version](pdfs/ordered_future_Sep2020rev.pdf){:target="_blank"}] 
 
