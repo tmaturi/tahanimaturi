@@ -56,25 +56,25 @@ title: Research
 ### Past PhD students
 <br>
 
-- Ms Fatimah Alghamdi (2022): 'Reproducibility of Statistical Inference Based on Randomised Response Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+- Ms Fatimah Alghamdi (2022): 'Reproducibility of Statistical Inference Based on Randomised Response Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14783/)
 
-- Mr Masad Alrasheedi (2022): 'Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference' (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. 
+- Mr Masad Alrasheedi (2022): 'Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference' (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14793/)
 
-- Mr Ali Mahnashi (2022): 'Contributions to Nonparametric predictive inference with right-censored data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+- Mr Ali Mahnashi (2022): 'Contributions to Nonparametric predictive inference with right-censored data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University.  [[Link]](http://etheses.dur.ac.uk/14548/)
 
 
-- Mr Abdulmajeed Alharbi (2022): 'Direct Nonparametric predictive inference classification trees' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+- Mr Abdulmajeed Alharbi (2022): 'Direct Nonparametric predictive inference classification trees' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University.  [[Link]](http://etheses.dur.ac.uk/14473/)
 
-- Mr Assamh Al-Luhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. 
+- Mr Assamh Al-Luhayb (2021): 'Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14096/)
 
-- Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Ms Ting He (2019): 'Nonparametric predictive inference for option pricing based on the binomial tree model' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/13115/)
 
-- Mr Junbin Chen (2019): 'Contributions to nonparametric predictive inference for bernoulli data with applications in finance' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Mr Junbin Chen (2019): 'Contributions to nonparametric predictive inference for bernoulli data with applications in finance' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/13123/)
 
-- Mr Banjaran Surya Indrastomo (2019): 'Political Economy of the Emergence of Islamic Finance: A Ground Theory Approach to Negotiating the Institutionalisation of Islamic Finance in Indonesia' (1st supervisor Prof Mehmet Asutay), Durham University Business School.
+- Mr Banjaran Surya Indrastomo (2019): 'Political Economy of the Emergence of Islamic Finance: A Ground Theory Approach to Negotiating the Institutionalisation of Islamic Finance in Indonesia' (1st supervisor Prof Mehmet Asutay), Durham University Business School. [[Link]](http://etheses.dur.ac.uk/13386/)
 
-- Mr Howard Dove (Mr Hoang Duong, 2018): 'Distress Risk, Financial Crisis and Investment Strategies: Evidence from the United Kingdom' (1st supervisor Prof Rob Dixon), Durham University Business School.
+- Mr Howard Dove (Mr Hoang Duong, 2018): 'Distress Risk, Financial Crisis and Investment Strategies: Evidence from the United Kingdom' (1st supervisor Prof Rob Dixon), Durham University Business School. [[Link]](http://etheses.dur.ac.uk/12755/)
 
-- Ms Manal Alabdulhadi (2018): 'Direct nonparametric methods for setting diagnostic thresholds' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Ms Manal Alabdulhadi (2018): 'Direct nonparametric methods for setting diagnostic thresholds' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/12538/)
 
-- Ms Noryanti Binti Muhammad (2016). 'Predictive inference with copulas for bivariate data' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University.
+- Ms Noryanti Binti Muhammad (2016). 'Predictive inference with copulas for bivariate data' (jointly supervised by Prof Frank Coolen), Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/11597/)
