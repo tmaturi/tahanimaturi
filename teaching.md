@@ -9,6 +9,11 @@ title: Teaching
 
 <br>
 
+### 2023-2024 
+
+- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials, Computer Practicals)
+<br>
+
 ### 2022-2023 
 - Introduction to Statistics for Data Science (Master of Data Science)
 (Term 1: Lectures and Workshops)
