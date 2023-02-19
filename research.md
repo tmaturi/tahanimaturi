@@ -13,9 +13,9 @@ title: Research
 <br>
 
 - Ms Nouf Alawaji. `Contributions to Nonparametric Predictive Inference'  (started January 2022; jointly supervised by Frank Coolen).
-- 
+
 - Ms Hamdah Alshamari. `Topics in Diagnostic Accuracy'  (started October 2022; 2nd supervisor Prof Frank Coolen). 
-- 
+
 - Ms Taghreed Ghazai Alnefaie. `Topics in Survival Signature'  (started October 2022; 1st supervisor Prof Frank Coolen). 
 
 
