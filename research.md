@@ -12,7 +12,7 @@ title: Research
 ### Current PhD students
 <br>
 
-- Ms Nouf Alawaji. `Contributions to Nonparametric Predictive Inference'  (started January 2022; jointly supervised by Frank Coolen).
+- Ms Nouf Alawaji. `Contributions to Nonparametric Predictive Inference'  (started January 2023; jointly supervised by Frank Coolen).
 
 - Ms Hamdah Alshamari. `Topics in Diagnostic Accuracy'  (started October 2022; 2nd supervisor Prof Frank Coolen). 
 
