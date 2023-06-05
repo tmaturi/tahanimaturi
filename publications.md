@@ -20,7 +20,7 @@ title: Publications
 ### 2023
 - F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum (2023). Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, 39(1): 68– 70. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
 
-- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, 52 (7), 2402-2416. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
+- **T. Coolen-Maturi** and F.P.A. Coolen (2023). A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, 52 (7), 2402-2416. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
 
 -  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2023). New reliability model for complex systems based on stochastic processes and survival signature, European Journal of Operational Research, 309(3), 1349-1364. [[preprint version](pdfs/EJOR-23-complex-systems-survival-signature.pdf){:target="_blank"}]  
 
