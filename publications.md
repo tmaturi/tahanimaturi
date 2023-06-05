@@ -13,6 +13,8 @@ title: Publications
 
 - M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  to appear.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
+- A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen. Smoothed bootstrap methods for bivariate data, Journal of Statistical Theory and Practice, to appear.  [[preprint version](pdfs/SB-methods-for-bivariate-data.pdf){:target="_blank"}] 
+
  <br> 
  
 ### 2023
