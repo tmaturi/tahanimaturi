@@ -9,16 +9,19 @@ title: Publications
 ### To appear
 
 
--  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** New reliability model for complex systems based on stochastic processes and survival signature, European Journal of Operational Research, to appear. [[preprint version](pdfs/EJOR-23-complex-systems-survival-signature.pdf){:target="_blank"}] 
-- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
 - A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}] 
 
- 
+- M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  to appear.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
  <br> 
  
 ### 2023
 - F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum (2023). Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, 39(1): 68– 70. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
+
+- **T. Coolen-Maturi** and F.P.A. Coolen. A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, 52 (7), 2402-2416. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
+
+-  M. Chang, X. Huang,  F.P.A. Coolen and **T. Coolen-Maturi** (2023). New reliability model for complex systems based on stochastic processes and survival signature, European Journal of Operational Research, 309(3), 1349-1364. [[preprint version](pdfs/EJOR-23-complex-systems-survival-signature.pdf){:target="_blank"}]  
+
 
 <br>
 
