@@ -37,7 +37,6 @@ title: Research
 
 - Ms Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
-- Mr Abdulrahman Aldawsari: 'New developments in parametric bootstrap' (started October 2019, jointly supervised by Frank Coolen).
 
 - Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
 
@@ -55,6 +54,12 @@ title: Research
 
 ### Past PhD students
 <br>
+
+
+
+
+- Mr Abdulrahman Aldawsari (2023): 'Parametric Predictive Bootstrap and Test Reproducibility' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14970/)
+
 
 - Ms Fatimah Alghamdi (2022): 'Reproducibility of Statistical Inference Based on Randomised Response Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14783/)
 
