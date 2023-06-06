@@ -60,10 +60,11 @@ title: Research
 
 - Mr Abdulrahman Aldawsari (2023): 'Parametric Predictive Bootstrap and Test Reproducibility' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14970/)
 
+- Mr Masad Alrasheedi (2023): 'Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference' (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14793/)
 
 - Ms Fatimah Alghamdi (2022): 'Reproducibility of Statistical Inference Based on Randomised Response Data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14783/)
 
-- Mr Masad Alrasheedi (2022): 'Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference' (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14793/)
+
 
 - Mr Ali Mahnashi (2022): 'Contributions to Nonparametric predictive inference with right-censored data' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University.  [[Link]](http://etheses.dur.ac.uk/14548/)
 
