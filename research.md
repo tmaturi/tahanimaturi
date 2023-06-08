@@ -40,9 +40,6 @@ title: Research
 
 - Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
 
-- Ms Kholood Alyazidi: 'Nonparametric predictive inference for inventory decisions' (started October 2018, jointly supervised by Frank Coolen).
-
-
 - Ms Andrea (Mikulandova) Simkus: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
 
 
@@ -55,6 +52,9 @@ title: Research
 ### Past PhD students
 <br>
 
+
+
+- Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/????/)
 
 
 
