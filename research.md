@@ -54,7 +54,7 @@ title: Research
 
 
 
-- Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/????/)
+- Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
 
 
 
