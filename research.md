@@ -12,11 +12,23 @@ title: Research
 ### Current PhD students
 <br>
 
-- Ms Nouf Alawaji. `Contributions to Nonparametric Predictive Inference'  (started January 2023; jointly supervised by Frank Coolen).
+- Ms Azza Alzahrany. `Dealing with Low Statistical Reproducibility'  (started October 2023; jointly supervised by Frank Coolen).
+  
+- Ms Fatemah Alammar. `Nonparametric Predictive Inference for Sequential Clinical Trials'  (started October 2023; jointly supervised by Frank Coolen).
+  
+- Ms Reem Alrashed. `System Maintenance Modelling with Survival Signatures'  (started October 2023; jointly supervised by Frank Coolen).
+  
+- Ms Wedad Aljuhani. `Nonparametric Predictive Inference for Sequential Acceptance Decisions'  (started October 2023; jointly supervised by Frank Coolen).
+  
+- Ms Nourah Albogamy. ` Nonparametric Predictive Inference Reproducibility for Multivariate tests'  (started October 2023; jointly supervised by Frank Coolen).
+  
+- Ms Wejdan Alahmadi. `Topics in Survival Signatures'  (started October 2023; jointly supervised by Prof Frank Coolen).
 
-- Ms Hamdah Alshamari. `Topics in Diagnostic Accuracy'  (started October 2022; 2nd supervisor Prof Frank Coolen). 
+- Ms Nouf Alawaji. `Nonparametric Predictive Inference Reproducibility for Quantile Tests'  (started January 2023; jointly supervised by Frank Coolen).
 
-- Ms Taghreed Ghazai Alnefaie. `Topics in Survival Signature'  (started October 2022; 1st supervisor Prof Frank Coolen). 
+- Ms Hamdah Alshamari. `Nonparametric Predictive Inference Reproducibility for Diagnostic tests'  (started October 2022; 2nd supervisor Prof Frank Coolen). 
+
+- Ms Taghreed Ghazai Alnefaie. `Nonparametric Predictive Inference for Reliability of Multi-State Systems'  (started October 2022; 1st supervisor Prof Frank Coolen). 
 
 
 - Mr  Rakan Alrekayan:  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
@@ -40,9 +52,6 @@ title: Research
 
 - Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
 
-- Ms Andrea (Mikulandova) Simkus: 'Reproducibility of statistical tests in pharmaceutical products development' (started October 2017, jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca).
-
-
 
 
 
@@ -51,6 +60,9 @@ title: Research
 
 ### Past PhD students
 <br>
+
+- Ms Andrea (Mikulandova) Simkus (2024): 'Contributions to Statistical Reproducibility and Small-Sample Bootstrap' (jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca). To appear.
+
 
 
 
