@@ -9,15 +9,28 @@ title: Publications
 ### To appear
 
 
-- A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}] 
+- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/encyclopaedia-surv-sign-2024.pdf){:target="_blank"}]
 
-- M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  to appear.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
-- A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen. Smoothed bootstrap methods for bivariate data, Journal of Statistical Theory and Practice, to appear.  [[preprint version](pdfs/SB-methods-for-bivariate-data.pdf){:target="_blank"}] 
+- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/encyclopaedia-npi-2024.pdf){:target="_blank"}]
+
+
+- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference for statistical reproducibility, to appear in the International Encyclopedia of Statistical Science (Springer). [[preprint version](pdfs/encyclopaedia-stat-rep-2024.pdf){:target="_blank"}]
+
+
+- A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}]
+
+  
+### 2024
+
+- M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  1,435, 115364.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
  <br> 
  
 ### 2023
+
+- A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen (2023). Smoothed bootstrap methods for bivariate data, Journal of Statistical Theory and Practice, 17, 37.  [[preprint version](pdfs/SB-methods-for-bivariate-data.pdf){:target="_blank"}] 
+
 - F.P.A. Coolen, **T. Coolen-Maturi** and G-J van Houtum (2023). Discussion of Signature-based Models of Preventive Maintenance. Applied Stochastic Models in Business and Industry, 39(1): 68– 70. [[preprint version](pdfs/ASMBI-discussion-220907-subm.pdf){:target="_blank"}] 
 
 - **T. Coolen-Maturi** and F.P.A. Coolen (2023). A  monotonicity property of weighted log-rank tests.   Communications in Statistics – Theory and Methods, 52 (7), 2402-2416. [[preprint version](pdfs/Logrank-ComStats-rev-20210507-Final.pdf){:target="_blank"}] 
