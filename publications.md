@@ -15,7 +15,7 @@ title: Publications
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-NPI-24.pdf){:target="_blank"}]
 
 
-- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference for statistical reproducibility, to appear in the International Encyclopedia of Statistical Science (Springer). [[preprint version](pdfs/Encycl-RP-24.pdf){:target="_blank"}]
+- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Statistical reproducibility, to appear in the International Encyclopedia of Statistical Science (Springer). [[preprint version](pdfs/Encycl-RP-24.pdf){:target="_blank"}]
 
 
 - A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}]
