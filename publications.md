@@ -9,7 +9,7 @@ title: Publications
 ### To appear
 
 
-- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SS-24.pdf){:target="_blank"}]
+- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
 
 
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-NPI-24.pdf){:target="_blank"}]
