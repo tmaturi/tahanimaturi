@@ -20,6 +20,8 @@ title: Publications
 
 - A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}]
 
+- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi**. Reproducibility of Statistical Tests Based on Randomised Response Data.  Journal of Statistical Theory and Practice, to appear.  [[preprint version](pdfs/RP-RRD-23.pdf){:target="_blank"}] 
+
   
 ### 2024
 
