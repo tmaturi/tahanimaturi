@@ -25,6 +25,9 @@ title: Publications
   
 ### 2024
 
+- A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen (2024). Smoothed Bootstrap Methods for Hypothesis Testing, Journal of Statistical Theory and Practice, 18, 16. [[preprint version](pdfs/SBM_for_testing_20231225_rev.pdf){:target="_blank"}] 
+ 
+
 - M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  1,435, 115364.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
  <br> 
