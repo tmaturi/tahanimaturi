@@ -18,15 +18,15 @@ title: Publications
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Statistical reproducibility, to appear in the International Encyclopedia of Statistical Science (Springer). [[preprint version](pdfs/Encycl-RP-24.pdf){:target="_blank"}]
 
 
-- A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi**. Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}]
-
-- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi**. Reproducibility of Statistical Tests Based on Randomised Response Data.  Journal of Statistical Theory and Practice, to appear.  [[preprint version](pdfs/RP-RRD-23.pdf){:target="_blank"}] 
 
   
 ### 2024
 
 - A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen (2024). Smoothed Bootstrap Methods for Hypothesis Testing, Journal of Statistical Theory and Practice, 18, 16. [[preprint version](pdfs/SBM_for_testing_20231225_rev.pdf){:target="_blank"}] 
  
+- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of Statistical Tests Based on Randomised Response Data.  Journal of Statistical Theory and Practice, 18, 13.  [[preprint version](pdfs/RP-RRD-23.pdf){:target="_blank"}] 
+
+- A.S.M. Al Luhayb, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Smoothed Bootstrap for Right-Censored Data.  Communications in Statistics – Theory and Methods, 53(11), 4037–4061. [[preprint version](pdfs/ComStats_SB_RC_Rev_221023.pdf){:target="_blank"}]
 
 - M. Chang, F.P.A. Coolen,  **T. Coolen-Maturi**  and X. Huang. A generalized system reliability model based on survival signature and multiple competing failure processes, Journal of Computational and Applied Mathematics,  1,435, 115364.  [[preprint version](pdfs/chang-manuscript-revised-may2023.pdf){:target="_blank"}] 
 
