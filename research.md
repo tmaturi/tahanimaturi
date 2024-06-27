@@ -41,7 +41,6 @@ title: Research
 
 - Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
-- Ms Norah Alshahrani: 'Nonparametric Predictive Inference for Reproducibility of Two-step Statistical Tests' (started October 2020, jointly supervised by Frank Coolen).
 
 - Mr Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
 
@@ -61,13 +60,12 @@ title: Research
 ### Past PhD students
 <br>
 
-- Ms Andrea (Mikulandova) Simkus (2024): 'Contributions to Statistical Reproducibility and Small-Sample Bootstrap' (jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca). To appear.
+- Ms Norah Alshahrani (2024): 'The Impact of Preliminary Tests on Statistical Reproducibility 
+of Location Tests'  (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
 
+- Ms Andrea (Mikulandova) Simkus (2024): 'Contributions to Statistical Reproducibility and Small-Sample Bootstrap' (jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca). [[Link]](http://etheses.dur.ac.uk/15294/)
 
-
-
-- Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
-
+- Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15121/)
 
 
 - Mr Abdulrahman Aldawsari (2023): 'Parametric Predictive Bootstrap and Test Reproducibility' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/14970/)
