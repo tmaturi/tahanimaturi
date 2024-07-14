@@ -4,9 +4,11 @@ title: About
 
 ## Biography<br><br>
 
-Dr Tahani Coolen-Maturi  is an Associate Professor in the Department of Mathematical Sciences at Durham University. She joined the department in September 2018. Before that, she was a Lecturer at Durham Business School for six years and a Lecturer at Kent Business School for one year. She is a statistician with a BSc in Mathematics and MSc in Statistics, and she has a PhD in Statistics from Durham University (Department of Mathematical Sciences). She also has an MBA in Finance.<br><br>
+Tahani Coolen-Maturi is a Professor of Statistics in the Department of Mathematical Sciences at Durham University, where she has been a faculty member since September 2018. Prior to this, she was a Lecturer at Durham Business School for six years and at Kent Business School for one year. Professor Coolen-Maturi holds a BSc in Mathematics, an MSc in Statistics, a PhD in Statistics from Durham University, and an MBA in Finance.
 
-She is interested in developing statistical methodologies for a variety of real applications, including finance, reliability and medical applications. Her teaching experience includes teaching mathematics, statistics, probability theory, econometrics and quantitative methods. She is a fellow of the Higher Education Academy (HEA).<br><br>
+Her research focuses on developing statistical methodologies for diverse applications in finance, reliability, and medical-related problems. With extensive teaching experience, she has taught courses in mathematics, statistics, probability theory, econometrics, and quantitative methods. Professor Coolen-Maturi is also a Fellow of the Higher Education Academy (HEA).
+
+<br><br>
 
 
 
