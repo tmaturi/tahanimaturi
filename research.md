@@ -46,7 +46,6 @@ title: Research
 
 
 
-- Ms Norah Alalyani: 'Reproducibility of one-way layout tests' (started October 2019, jointly supervised by Frank Coolen).
 
 
 - Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
@@ -59,6 +58,8 @@ title: Research
 
 ### Past PhD students
 <br>
+
+- Ms Norah Alalyani (2024): 'Nonparametric Predictive Inference for Reproducibility of One-Way Layout Tests' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
 
 - Ms Norah Alshahrani (2024): 'The Impact of Preliminary Tests on Statistical Reproducibility 
 of Location Tests'  (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
