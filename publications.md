@@ -8,6 +8,8 @@ title: Publications
  
 ### To appear
 
+- S. Abdul Rehman, **T. Coolen-Maturi**, F.P.A. Coolen, J. Shabbir. Reproducibility of mean estimators under ranked set sampling. Franklin Open, to appear. [[preprint version](pdfs/F_O_Revised.pdf){:target="_blank"}]
+
 - **T. Coolen-Maturi**, Ali M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
 
 
