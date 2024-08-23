@@ -8,7 +8,6 @@ title: Publications
  
 ### To appear
 
-- S. Abdul Rehman, **T. Coolen-Maturi**, F.P.A. Coolen, J. Shabbir. Reproducibility of mean estimators under ranked set sampling. Franklin Open, to appear. [[preprint version](pdfs/F_O_Revised.pdf){:target="_blank"}]
 
 - **T. Coolen-Maturi**, Ali M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
 
@@ -27,6 +26,8 @@ title: Publications
 ### 2024
 
 - S. Moral-García, **T. Coolen-Maturi**, F.P.A. Coolen, J. Abellán (2024). A Bayesian Imprecise Classification method that weights instances using the error costs, Applied Soft Computing, 165, 112080. [[preprint version](pdfs/ASOC-D-24-01994_R1_DRO.pdf){:target="_blank"}] 
+
+- S. Abdul Rehman, **T. Coolen-Maturi**, F.P.A. Coolen, J. Shabbir (2024). Reproducibility of mean estimators under ranked set sampling. Franklin Open, 8, 100139. [[preprint version](pdfs/F_O_Revised.pdf){:target="_blank"}]
 
 - A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen (2024). Smoothed Bootstrap Methods for Hypothesis Testing, Journal of Statistical Theory and Practice, 18, 16. [[preprint version](pdfs/SBM_for_testing_20231225_rev.pdf){:target="_blank"}] 
  
