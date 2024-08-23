@@ -26,6 +26,8 @@ title: Publications
   
 ### 2024
 
+- S. Moral-García, **T. Coolen-Maturi**, F.P.A. Coolen, J. Abellán (2024). A Bayesian Imprecise Classification method that weights instances using the error costs, Applied Soft Computing, 165, 112080. [[preprint version](pdfs/ASOC-D-24-01994_R1_DRO.pdf){:target="_blank"}] 
+
 - A.S.M. Al Luhayb,  **T. Coolen-Maturi** and F.P.A. Coolen (2024). Smoothed Bootstrap Methods for Hypothesis Testing, Journal of Statistical Theory and Practice, 18, 16. [[preprint version](pdfs/SBM_for_testing_20231225_rev.pdf){:target="_blank"}] 
  
 - F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of Statistical Tests Based on Randomised Response Data.  Journal of Statistical Theory and Practice, 18, 13.  [[preprint version](pdfs/RP-RRD-23.pdf){:target="_blank"}] 
