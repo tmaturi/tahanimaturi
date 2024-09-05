@@ -9,7 +9,10 @@ title: Publications
 ### To appear
 
 
-- **T. Coolen-Maturi**, Ali M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
+- J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh. A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, to appear. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]
+
+
+- **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
 
 
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
