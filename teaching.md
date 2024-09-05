@@ -9,6 +9,11 @@ title: Teaching
 
 <br>
 
+### 2024-2025 
+
+- Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials, Computer Practicals)
+<br>
+
 ### 2023-2024 
 
 - Statistical Modelling II  (Term 2: Lectures, Problem classes, Tutorials, Computer Practicals)
