@@ -9,6 +9,7 @@ title: Publications
 ### To appear
 
 
+
 - J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh. A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, to appear. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]
 
 
@@ -27,6 +28,10 @@ title: Publications
 
   
 ### 2024
+
+Q. Zhang, G. Uwimpuhwe, D. Vallis, A. Singh, **T. Coolen-Maturi**, & J. Einbeck (2024). Elicitation of Priors for Intervention Effects in Educational Trial Data. In J. Einbeck, H. Maeng, E. Ogundimu, & K. Perrakis (Eds.), Developments in Statistical Modelling (28-33). Springer. https://doi.org/10.1007/978-3-031-65723-8_5
+[[preprint version](pdfs/2756630AAM.pdf){:target="_blank"}]
+
 
 - S. Moral-García, **T. Coolen-Maturi**, F.P.A. Coolen, J. Abellán (2024). A Bayesian Imprecise Classification method that weights instances using the error costs, Applied Soft Computing, 165, 112080. [[preprint version](pdfs/ASOC-D-24-01994_R1_DRO.pdf){:target="_blank"}] 
 
