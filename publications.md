@@ -29,7 +29,9 @@ title: Publications
   
 ### 2024
 
-Q. Zhang, G. Uwimpuhwe, D. Vallis, A. Singh, **T. Coolen-Maturi**, & J. Einbeck (2024). Elicitation of Priors for Intervention Effects in Educational Trial Data. In J. Einbeck, H. Maeng, E. Ogundimu, & K. Perrakis (Eds.), Developments in Statistical Modelling (28-33). Springer. https://doi.org/10.1007/978-3-031-65723-8_5
+- F.P.A. Coolen,  **T. Coolen-Maturi**  (2024). Survival Signature for Reliability Quantification of Large Systems and Networks. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) System Dependability - Theory and Applications. DepCoS-RELCOMEX 2024. Lecture Notes in Networks and Systems, vol 1026. Springer, Cham. https://doi.org/10.1007/978-3-031-61857-4_3
+
+- Q. Zhang, G. Uwimpuhwe, D. Vallis, A. Singh, **T. Coolen-Maturi**, & J. Einbeck (2024). Elicitation of Priors for Intervention Effects in Educational Trial Data. In J. Einbeck, H. Maeng, E. Ogundimu, & K. Perrakis (Eds.), Developments in Statistical Modelling (28-33). Springer. https://doi.org/10.1007/978-3-031-65723-8_5
 [[preprint version](pdfs/2756630AAM.pdf){:target="_blank"}]
 
 
