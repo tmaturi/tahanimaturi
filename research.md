@@ -48,10 +48,6 @@ title: Research
 
 
 
-- Mr Reid Alotaibi: 'Imprecise statistical methods for contingency tables' (started October 2019, jointly supervised by Frank Coolen).
-
-
-
 
 
 <br>
@@ -59,12 +55,18 @@ title: Research
 ### Past PhD students
 <br>
 
-- Ms Norah Alalyani (2024): 'Nonparametric Predictive Inference for Reproducibility of One-Way Layout Tests' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+
+- Mr Reid Alotaibi (2024): 'Reproducibility of Hypothesis Tests for 2x2 Contingency Tables' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+
+
+- Ms Norah Alalyani (2024): 'Nonparametric Predictive Inference for Reproducibility of One-Way Layout Tests' (jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
+[[Link]](http://etheses.dur.ac.uk/15713/)
+
 
 - Ms Norah Alshahrani (2024): 'The Impact of Preliminary Tests on Statistical Reproducibility 
-of Location Tests'  (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+of Location Tests'  (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15661/)
 
-- Ms Andrea (Mikulandova) Simkus (2024): 'Contributions to Statistical Reproducibility and Small-Sample Bootstrap' (jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca). [[Link]](http://etheses.dur.ac.uk/15294/)
+- Ms Andrea (Mikulandova) Simkus (2023): 'Contributions to Statistical Reproducibility and Small-Sample Bootstrap' (jointly supervised by Frank Coolen; EPSRC-CASE project with AstraZeneca). [[Link]](http://etheses.dur.ac.uk/15294/)
 
 - Ms Kholood Alyazidi (2023): 'Nonparametric Predictive Inference for Inventory Decisions,' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15121/)
 
