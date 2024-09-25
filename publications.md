@@ -10,8 +10,6 @@ title: Publications
 
 
 
-- J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh. A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, to appear. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]
-
 
 - **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
 
@@ -28,6 +26,10 @@ title: Publications
 
   
 ### 2024
+
+
+- J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2024). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 1-18. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]
+https://doi.org/10.1080/00220973.2024.2405738
 
 - F.P.A. Coolen,  **T. Coolen-Maturi**  (2024). Survival Signature for Reliability Quantification of Large Systems and Networks. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) System Dependability - Theory and Applications. DepCoS-RELCOMEX 2024. Lecture Notes in Networks and Systems, vol 1026. Springer, Cham. https://doi.org/10.1007/978-3-031-61857-4_3
 
