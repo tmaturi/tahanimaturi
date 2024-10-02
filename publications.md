@@ -8,7 +8,8 @@ title: Publications
  
 ### To appear
 
-
+- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of estimates based on
+randomised response methods. Journal of Statistical Theory and Practice,   [[preprint version](pdfs/Fatimah_Alghamdi_Springer_17092024rev.pdf){:target="_blank"}] 
 
 
 - **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
