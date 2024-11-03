@@ -11,8 +11,6 @@ title: Publications
 - F.P.A. Coolen, **T. Coolen-Maturi**, A. M. Mahnashi, . Nonparametric Predictive Inference for Discrete
 Lifetime Data. Mathematics, to appear. [[preprint version](pdfs/Mathematics-NPI-discrete-rev-241001.pdf){:target="_blank"}] 
 
-- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of estimates based on
-randomised response methods. Journal of Statistical Theory and Practice,   [[preprint version](pdfs/Fatimah_Alghamdi_Springer_17092024rev.pdf){:target="_blank"}] [[Link](https://link.springer.com/epdf/10.1007/s42519-024-00409-z?sharing_token=5LQPBWI1IPn5qC-NAf0F2fe4RwlQNchNByi7wbcMAY6cQ9CuGnSFoXI6wj7p9gQMwXG4hC3nUJ671VHvgp6yQKVTkt1UqF5ulc0OIEYsVtP6UeNXKEEwxS1jGgaOK1mECUZJemUvjrRuEu2c_tJ3Nfpfej5gOKprHUWpfxLOjBk%3D){:target="_blank"}]
 
 
 - **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
@@ -30,6 +28,9 @@ randomised response methods. Journal of Statistical Theory and Practice,   [[pre
 
   
 ### 2024
+
+- F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of estimates based on
+randomised response methods. Journal of Statistical Theory and Practice, 18, 57.  [[preprint version](pdfs/Fatimah_Alghamdi_Springer_17092024rev.pdf){:target="_blank"}] [[Link](https://link.springer.com/epdf/10.1007/s42519-024-00409-z?sharing_token=5LQPBWI1IPn5qC-NAf0F2fe4RwlQNchNByi7wbcMAY6cQ9CuGnSFoXI6wj7p9gQMwXG4hC3nUJ671VHvgp6yQKVTkt1UqF5ulc0OIEYsVtP6UeNXKEEwxS1jGgaOK1mECUZJemUvjrRuEu2c_tJ3Nfpfej5gOKprHUWpfxLOjBk%3D){:target="_blank"}]
 
 
 - J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2024). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 1-18. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]
