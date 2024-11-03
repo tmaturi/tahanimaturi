@@ -36,7 +36,7 @@ randomised response methods. Journal of Statistical Theory and Practice, 18, 57.
 - J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2024). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 1-18. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]  [[Link](https://doi.org/10.1080/00220973.2024.2405738){:target="_blank"}] 
 
 
-- F.P.A. Coolen,  **T. Coolen-Maturi**  (2024). Survival Signature for Reliability Quantification of Large Systems and Networks. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) System Dependability - Theory and Applications. DepCoS-RELCOMEX 2024. Lecture Notes in Networks and Systems, vol 1026. Springer, Cham. [[Link](https://doi.org/10.1007/978-3-031-61857-4_3){:target="_blank"}] 
+- F.P.A. Coolen,  **T. Coolen-Maturi**  (2024). Survival Signature for Reliability Quantification of Large Systems and Networks. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) System Dependability - Theory and Applications. DepCoS-RELCOMEX 2024. Lecture Notes in Networks and Systems, vol 1026. Springer, Cham. [[preprint version](pdfs/Coolen-DepCos24.pdf){:target="_blank"}] [[Link](https://doi.org/10.1007/978-3-031-61857-4_3){:target="_blank"}] 
 
 - Q. Zhang, G. Uwimpuhwe, D. Vallis, A. Singh, **T. Coolen-Maturi**, & J. Einbeck (2024). Elicitation of Priors for Intervention Effects in Educational Trial Data. In J. Einbeck, H. Maeng, E. Ogundimu, & K. Perrakis (Eds.), Developments in Statistical Modelling (28-33). Springer. https://doi.org/10.1007/978-3-031-65723-8_5
 [[preprint version](pdfs/2756630AAM.pdf){:target="_blank"}]
