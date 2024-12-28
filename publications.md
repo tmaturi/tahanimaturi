@@ -8,8 +8,6 @@ title: Publications
  
 ### To appear
 
-- F.P.A. Coolen, **T. Coolen-Maturi**, A. M. Mahnashi, . Nonparametric Predictive Inference for Discrete
-Lifetime Data. Mathematics, to appear. [[preprint version](pdfs/Mathematics-NPI-discrete-rev-241001.pdf){:target="_blank"}] 
 
 
 
@@ -28,6 +26,10 @@ Lifetime Data. Mathematics, to appear. [[preprint version](pdfs/Mathematics-NPI-
 
   
 ### 2024
+
+- F.P.A. Coolen, **T. Coolen-Maturi**, A. M. Mahnashi (2024). Nonparametric Predictive Inference for Discrete
+Lifetime Data. Mathematics, 12(22), 3514. [[preprint version](pdfs/Mathematics-NPI-discrete-rev-241001.pdf){:target="_blank"}] [[Link](https://doi.org/10.3390/math12223514){:target="_blank"}] 
+
 
 - F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of estimates based on
 randomised response methods. Journal of Statistical Theory and Practice, 18, 57.  [[preprint version](pdfs/Fatimah_Alghamdi_Springer_17092024rev.pdf){:target="_blank"}] [[Link](https://link.springer.com/epdf/10.1007/s42519-024-00409-z?sharing_token=5LQPBWI1IPn5qC-NAf0F2fe4RwlQNchNByi7wbcMAY6cQ9CuGnSFoXI6wj7p9gQMwXG4hC3nUJ671VHvgp6yQKVTkt1UqF5ulc0OIEYsVtP6UeNXKEEwxS1jGgaOK1mECUZJemUvjrRuEu2c_tJ3Nfpfej5gOKprHUWpfxLOjBk%3D){:target="_blank"}]
