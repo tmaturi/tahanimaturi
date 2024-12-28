@@ -11,6 +11,7 @@ title: Research
 
 ### Current PhD students
 <br>
+
 - Ms Manal Alasmari. `Nonparametric Predictive Inference for Time Series'  (started October 2024; jointly supervised by Frank Coolen).
 
 - Ms Azza Alzahrany. `Dealing with Low Statistical Reproducibility'  (started October 2023; jointly supervised by Frank Coolen).
@@ -57,7 +58,7 @@ title: Research
 <br>
 
 
-- Mr Reid Alotaibi (2024): 'Reproducibility of Hypothesis Tests for 2x2 Contingency Tables' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+- Mr Reid Alotaibi (2024): 'Reproducibility of Hypothesis Tests for 2x2 Contingency Tables' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15864/)
 
 
 - Ms Norah Alalyani (2024): 'Nonparametric Predictive Inference for Reproducibility of One-Way Layout Tests' (jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
