@@ -32,14 +32,11 @@ title: Research
 
 - Ms Taghreed Ghazai Alnefaie. `Nonparametric Predictive Inference for Reliability of Multi-State Systems'  (started October 2022; 1st supervisor Prof Frank Coolen). 
 
-
 - Mr  Rakan Alrekayan:  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
 
 - Ms Hadeer Ghonem: `Performance Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
 
 - Ms Fatimah Alshihry: 'Nonparametric Predictive Methods for Ranking and Selection' (started January 2021, jointly supervised by Frank Coolen).
-
-- Mr Abdulmajeed Abdullah Alharbi: 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (started January 2021, jointly supervised by Frank Coolen).
 
 - Ms Taghreed Almasoud: 'Nonparametric Predictive Inference for Multivariate Data' (started October 2020, jointly supervised by Frank Coolen).
 
@@ -57,7 +54,8 @@ title: Research
 ### Past PhD students
 <br>
 
-
+- Mr Abdulmajeed Abdullah Alharbi (2025): 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+  
 - Mr Reid Alotaibi (2024): 'Reproducibility of Hypothesis Tests for 2x2 Contingency Tables' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15864/)
 
 
