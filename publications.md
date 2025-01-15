@@ -11,9 +11,6 @@ title: Publications
 
 
 
-- **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen. Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, to appear. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}]
-
-
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
 
 
@@ -26,6 +23,8 @@ title: Publications
 
   
 ### 2024
+
+- **T. Coolen-Maturi**, A. M. Mahnashi, F.P.A. Coolen (2024). Nonparametric Predictive Inference for Two Future Observations with Right-Censored Data. Mathematical Methods of Statistics, 33, 4, 338–372. [[preprint version](pdfs/NPI_RC_Ali-24May-rev.pdf){:target="_blank"}][[Link](https://link.springer.com/epdf/10.3103/S1066530724700182?sharing_token=o0ZOFL4jSjNfmyD-gmm7zidfWSHpG7i21bdP_8GgaUMGETktlNJe5ocfZHSqz0lwE35ZBn2JK3vd_-llFwsyMXy0B6p_FWZyGLKr-KpYnVk4w0yJnaaiYsDpRnUOWWq6VxVqe6hNJalKr5-nQuw0-Hl5dK26bQ3k3DRpJQSsJFs%3D){:target="_blank"}]
 
 - F.P.A. Coolen, **T. Coolen-Maturi**, A. M. Mahnashi (2024). Nonparametric Predictive Inference for Discrete
 Lifetime Data. Mathematics, 12(22), 3514. [[preprint version](pdfs/Mathematics-NPI-discrete-rev-241001.pdf){:target="_blank"}] [[Link](https://doi.org/10.3390/math12223514){:target="_blank"}] 
