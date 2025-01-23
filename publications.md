@@ -11,6 +11,9 @@ title: Publications
 
 
 
+- **T. Coolen-Maturi** (2025). Combining biomarkers to improve diagnostic accuracy using the overlap coefficient. Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Combine_OVL_20241123.pdf){:target="_blank"}]
+
+
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
 
 
