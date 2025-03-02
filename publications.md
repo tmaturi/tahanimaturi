@@ -10,6 +10,7 @@ title: Publications
 
 
 
+- A.M.A. Aldawsari, **T. Coolen-Maturi** and F.P.A. Coolen (2025). Parametric Predictive Bootstrap Method for the Reproducibility of Hypothesis Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper2_TCM_20250131rev-DRO.pdf){:target="_blank"}]
 
 
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
