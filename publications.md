@@ -8,6 +8,7 @@ title: Publications
  
 ### To appear
 
+A. M. Mahnashi, F.P.A. Coolen, **T. Coolen-Maturi** (2025). Exceedance Probabilities Using Nonparametric Predictive Inference: A Supercentenarian Dataset Case, Franklin Open, to appear. [[preprint version](pdfs/Ali-paper-Exceedance-20250116rev.pdf){:target="_blank"}]
 
 
 - A.M.A. Aldawsari, **T. Coolen-Maturi** and F.P.A. Coolen (2025). Parametric Predictive Bootstrap Method for the Reproducibility of Hypothesis Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper2_TCM_20250131rev-DRO.pdf){:target="_blank"}]
