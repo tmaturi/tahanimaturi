@@ -8,10 +8,13 @@ title: Publications
  
 ### To appear
 
-- A. M. Mahnashi, F.P.A. Coolen, **T. Coolen-Maturi** (2025). Exceedance Probabilities Using Nonparametric Predictive Inference: A Supercentenarian Dataset Case, Franklin Open, to appear. [[preprint version](pdfs/Ali-paper-Exceedance-20250116rev.pdf){:target="_blank"}][[Link](https://doi.org/10.1016/j.fraope.2025.100241){:target="_blank"}]
 
 
-- A.M.A. Aldawsari, **T. Coolen-Maturi** and F.P.A. Coolen (2025). Parametric Predictive Bootstrap Method for the Reproducibility of Hypothesis Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper2_TCM_20250131rev-DRO.pdf){:target="_blank"}]
+
+
+- A. Simkus, **T. Coolen-Maturi**, F. P. A. Coolen and C. Bendtsen (2025). Statistical Perspectives on Reproducibility:
+Definitions and Challenges, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Reproducibility_JSTP_final_rev_v2.pdf){:target="_blank"}]
+
 
 
 - F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
@@ -26,6 +29,12 @@ title: Publications
 
 - **T. Coolen-Maturi** (2025). Combining biomarkers to improve diagnostic accuracy using the overlap coefficient. Communications in Statistics – Theory and Methods, 1–16. [[preprint version](pdfs/Combine_OVL_20241123.pdf){:target="_blank"}] [[Link](https://doi.org/10.1080/03610926.2025.2460095){:target="_blank"}]
  
+
+- A. M. Mahnashi, F.P.A. Coolen, **T. Coolen-Maturi** (2025). Exceedance Probabilities Using Nonparametric Predictive Inference: A Supercentenarian Dataset Case, Franklin Open, 11, 100241. [[preprint version](pdfs/Ali-paper-Exceedance-20250116rev.pdf){:target="_blank"}][[Link](https://doi.org/10.1016/j.fraope.2025.100241){:target="_blank"}]
+
+
+
+- A.M.A. Aldawsari, **T. Coolen-Maturi** and F.P.A. Coolen (2025). Parametric Predictive Bootstrap Method for the Reproducibility of Hypothesis Tests, Journal of Statistical Theory and Practice, 19, 21. [[preprint version](pdfs/Paper2_TCM_20250131rev-DRO.pdf){:target="_blank"}]
 
   
 ### 2024
