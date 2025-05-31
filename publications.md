@@ -27,6 +27,12 @@ Definitions and Challenges, Journal of Statistical Theory and Practice, to appea
 
 ### 2025
 
+
+- M. Sayari, A. Singh, G. Uwimpuhwe, N. Akhter, **T. Coolen-Maturi**, R. Gupta, J. Einbeck (2025).
+Educational platform trials simulator (EPTS): Software for planning and simulating cluster-randomised, multisite and simple randomised platform trials,
+SoftwareX, 31. [[Link](https://doi.org/10.1016/j.softx.2025.102214){:target="_blank"}]
+
+
 - **T. Coolen-Maturi** (2025). Combining biomarkers to improve diagnostic accuracy using the overlap coefficient. Communications in Statistics – Theory and Methods, 1–16. [[preprint version](pdfs/Combine_OVL_20241123.pdf){:target="_blank"}] [[Link](https://doi.org/10.1080/03610926.2025.2460095){:target="_blank"}]
  
 
