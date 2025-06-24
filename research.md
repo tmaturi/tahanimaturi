@@ -54,7 +54,7 @@ title: Research
 ### Past PhD students
 <br>
 
-- Mr Abdulmajeed Abdullah Alharbi (2025): 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/)
+- Mr Abdulmajeed Abdullah Alharbi (2025): 'Nonparametric Predictive Inference for Multiple Future Ordinal Observations' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](https://etheses.dur.ac.uk/15908/)
   
 - Mr Reid Alotaibi (2024): 'Reproducibility of Hypothesis Tests for 2x2 Contingency Tables' (jointly supervised by Frank Coolen),  Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/15864/)
 
