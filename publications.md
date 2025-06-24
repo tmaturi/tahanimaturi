@@ -12,22 +12,24 @@ title: Publications
 
 
 
-- A. Simkus, **T. Coolen-Maturi**, F. P. A. Coolen and C. Bendtsen (2025). Statistical Perspectives on Reproducibility:
-Definitions and Challenges, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Reproducibility_JSTP_final_rev_v2.pdf){:target="_blank"}]
-
-
-
-- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Survival signature for system reliability, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}]
-
-
-- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Nonparametric predictive inference, to appear in the International Encyclopedia of Statistical Science (Springer). to appear. [[preprint version](pdfs/Encycl-NPI-24.pdf){:target="_blank"}]
-
-
-- F.P.A. Coolen and **T. Coolen-Maturi** (2024). Statistical reproducibility, to appear in the International Encyclopedia of Statistical Science (Springer). [[preprint version](pdfs/Encycl-RP-24.pdf){:target="_blank"}]
 
 ### 2025
 
 
+- A. Simkus, **T. Coolen-Maturi**, F. P. A. Coolen and C. Bendtsen (2025). Statistical Perspectives on Reproducibility:
+Definitions and Challenges, Journal of Statistical Theory and Practice, 19, 40. [[preprint version](pdfs/Reproducibility_JSTP_final_rev_v2.pdf){:target="_blank"}]
+
+
+
+- F.P.A. Coolen and **T. Coolen-Maturi** (2025). Survival signature for system reliability, In: Lovric, M. (eds) International Encyclopedia of Statistical Science. Springer, Berlin, Heidelberg. [[preprint version](pdfs/Encycl-SurvSign-24.pdf){:target="_blank"}][[Link](https://doi.org/10.1007/978-3-662-69359-9_675){:target="_blank"}]
+
+
+- F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric predictive inference, In: Lovric, M. (eds) International Encyclopedia of Statistical Science. Springer, Berlin, Heidelberg. [[preprint version](pdfs/Encycl-NPI-24.pdf){:target="_blank"}][[Link](https://doi.org/10.1007/978-3-662-69359-9_422){:target="_blank"}]
+
+
+- F.P.A. Coolen and **T. Coolen-Maturi** (2025). Statistical reproducibility, In: Lovric, M. (eds) International Encyclopedia of Statistical Science. Springer, Berlin, Heidelberg. [[preprint version](pdfs/Encycl-RP-24.pdf){:target="_blank"}][[Link](https://doi.org/10.1007/978-3-662-69359-9_627){:target="_blank"}]
+
+  
 - M. Sayari, A. Singh, G. Uwimpuhwe, N. Akhter, **T. Coolen-Maturi**, R. Gupta, J. Einbeck (2025).
 Educational platform trials simulator (EPTS): Software for planning and simulating cluster-randomised, multisite and simple randomised platform trials,
 SoftwareX, 31. [[Link](https://doi.org/10.1016/j.softx.2025.102214){:target="_blank"}]
