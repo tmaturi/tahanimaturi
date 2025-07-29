@@ -8,7 +8,7 @@ title: Publications
  
 ### To appear
 
-
+- Norah Alalyani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Statistical Reproducibility of Umbrella Alternative Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper1_Umbrella_20250728rev.pdf){:target="_blank"}]
 
 
 
