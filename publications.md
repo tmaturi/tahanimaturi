@@ -10,6 +10,8 @@ title: Publications
 
 - Norah Alalyani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Statistical Reproducibility of Umbrella Alternative Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper1_Umbrella_20250728rev.pdf){:target="_blank"}]
 
+- Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
+
 
 
 
