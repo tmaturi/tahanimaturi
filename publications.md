@@ -18,6 +18,9 @@ Equality of Variances Tests, Journal of Statistical Theory and Practice, to appe
 
 
 
+- A.M.A. Aldawsari, F.P.A. Coolen and **T. Coolen-Maturi** (2025). A Novel Parametric Predictive Bootstrap Method, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Paper1_TCM_20250513_rev.pdf){:target="_blank"}]
+
+
 ### 2025
 
 
