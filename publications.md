@@ -43,7 +43,7 @@ Educational platform trials simulator (EPTS): Software for planning and simulati
 SoftwareX, 31. [[Link](https://doi.org/10.1016/j.softx.2025.102214){:target="_blank"}]
 
 
-- **T. Coolen-Maturi** (2025). Combining biomarkers to improve diagnostic accuracy using the overlap coefficient. Communications in Statistics – Theory and Methods, 1–16. [[preprint version](pdfs/Combine_OVL_20241123.pdf){:target="_blank"}] [[Link](https://doi.org/10.1080/03610926.2025.2460095){:target="_blank"}]
+- **T. Coolen-Maturi** (2025). Combining biomarkers to improve diagnostic accuracy using the overlap coefficient. Communications in Statistics – Theory and Methods, 54, 20, 6599–6615. [[preprint version](pdfs/Combine_OVL_20241123.pdf){:target="_blank"}] [[Link](https://doi.org/10.1080/03610926.2025.2460095){:target="_blank"}]
  
 
 - A. M. Mahnashi, F.P.A. Coolen, **T. Coolen-Maturi** (2025). Exceedance Probabilities Using Nonparametric Predictive Inference: A Supercentenarian Dataset Case, Franklin Open, 11, 100241. [[preprint version](pdfs/Ali-paper-Exceedance-20250116rev.pdf){:target="_blank"}][[Link](https://doi.org/10.1016/j.fraope.2025.100241){:target="_blank"}]
