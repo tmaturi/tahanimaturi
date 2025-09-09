@@ -12,7 +12,6 @@ title: Research
 ### Current PhD students
 <br>
 
-- Ms Manal Alasmari. `Nonparametric Predictive Inference for Time Series'  (started October 2024; jointly supervised by Frank Coolen).
 
 - Ms Azza Alzahrany. `Dealing with Low Statistical Reproducibility'  (started October 2023; jointly supervised by Frank Coolen).
   
