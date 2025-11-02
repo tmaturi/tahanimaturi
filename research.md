@@ -33,7 +33,6 @@ title: Research
 
 - Mr  Rakan Alrekayan:  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
 
-- Ms Hadeer Ghonem: `Performance Evaluation of Nonparametric Predictive Inference'  (started October 2021; 2nd supervisor Prof Frank Coolen). 
 
 
 - Mr Mohammed Alhanif: 'Portfolio Theory from Nonparametric Predictive Inference Perspective' (started October 2020, jointly supervised by Frank Coolen).
@@ -48,6 +47,10 @@ title: Research
 
 ### Past PhD students
 <br>
+
+- Ms Hadeer Ghonem: `Contributions to Nonparametric Predictive 
+Inference: Classification and Performance Evaluation'  (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/xxxxx/). 
+
 
 - Ms Fatimah Alshihry (2025): 'Nonparametric Predictive Inference for Selection and
 Ranking' (jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University. [[Link]](https://etheses.dur.ac.uk/16269/)
