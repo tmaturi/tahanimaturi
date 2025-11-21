@@ -48,7 +48,7 @@ title: Research
 ### Past PhD students
 <br>
 
-- Ms Hadeer Ghonem: `Contributions to Nonparametric Predictive Inference: Classification and Performance Evaluation'  (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/16348/). 
+- Ms Hadeer Ghonem (2025): `Contributions to Nonparametric Predictive Inference: Classification and Performance Evaluation'  (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/16348/). 
 
 
 - Ms Fatimah Alshihry (2025): 'Nonparametric Predictive Inference for Selection and
