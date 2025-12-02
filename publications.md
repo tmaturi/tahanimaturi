@@ -8,21 +8,27 @@ title: Publications
  
 ### To appear
 
-- Norah D. Alshahrani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). On Statistical Reproducibility of Normality and
-Equality of Variances Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/RP_Normality_Variance_Tests_20250803.pdf){:target="_blank"}]
 
-- Norah Alalyani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Statistical Reproducibility of Umbrella Alternative Tests, Journal of Statistical Theory and Practice, to appear. [[preprint version](pdfs/Paper1_Umbrella_20250728rev.pdf){:target="_blank"}]
+
 
 - Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
-
-
 
 
 - A.M.A. Aldawsari, F.P.A. Coolen and **T. Coolen-Maturi** (2025). A Novel Parametric Predictive Bootstrap Method, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Paper1_TCM_20250513_rev.pdf){:target="_blank"}]
 
 
+
+- A.A. Alharbi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Direct Nonparametric Predictive Inference Classification
+Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
+
+- K.O. Alyazidi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric Predictive Inference for the Single-Period Inventory Model. Journal of the Operational Research Society, to appear. [[preprint version](pdfs/JORS_NPI_inventory_accepted.pdf){:target="_blank"}]
+
 ### 2025
 
+- Norah D. Alshahrani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). On Statistical Reproducibility of Normality and
+Equality of Variances Tests, Journal of Statistical Theory and Practice, 19, 81. [[preprint version](pdfs/RP_Normality_Variance_Tests_20250803.pdf){:target="_blank"}]
+
+- Norah Alalyani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Statistical Reproducibility of Umbrella Alternative Tests, Journal of Statistical Theory and Practice, 19, 76. [[preprint version](pdfs/Paper1_Umbrella_20250728rev.pdf){:target="_blank"}]
 
 - A. Simkus, **T. Coolen-Maturi**, F. P. A. Coolen and C. Bendtsen (2025). Statistical Perspectives on Reproducibility:
 Definitions and Challenges, Journal of Statistical Theory and Practice, 19, 40. [[preprint version](pdfs/Reproducibility_JSTP_final_rev_v2.pdf){:target="_blank"}]
