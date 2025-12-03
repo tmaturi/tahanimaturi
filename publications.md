@@ -23,6 +23,15 @@ Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_
 
 - K.O. Alyazidi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric Predictive Inference for the Single-Period Inventory Model. Journal of the Operational Research Society, to appear. [[preprint version](pdfs/JORS_NPI_inventory_accepted.pdf){:target="_blank"}]
 
+### 2026
+
+
+
+
+- J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2026). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 94(1), 152–169. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]  [[Link](https://doi.org/10.1080/00220973.2024.2405738){:target="_blank"}] 
+
+
+
 ### 2025
 
 - Norah D. Alshahrani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). On Statistical Reproducibility of Normality and
@@ -70,8 +79,6 @@ Lifetime Data. Mathematics, 12(22), 3514. [[preprint version](pdfs/Mathematics-N
 - F. M. Alghamdi, F.P.A. Coolen, **T. Coolen-Maturi** (2024). Reproducibility of estimates based on
 randomised response methods. Journal of Statistical Theory and Practice, 18, 57.  [[preprint version](pdfs/Fatimah_Alghamdi_Springer_17092024rev.pdf){:target="_blank"}] [[Link](https://link.springer.com/epdf/10.1007/s42519-024-00409-z?sharing_token=5LQPBWI1IPn5qC-NAf0F2fe4RwlQNchNByi7wbcMAY6cQ9CuGnSFoXI6wj7p9gQMwXG4hC3nUJ671VHvgp6yQKVTkt1UqF5ulc0OIEYsVtP6UeNXKEEwxS1jGgaOK1mECUZJemUvjrRuEu2c_tJ3Nfpfej5gOKprHUWpfxLOjBk%3D){:target="_blank"}]
 
-
-- J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2024). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 1-18. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]  [[Link](https://doi.org/10.1080/00220973.2024.2405738){:target="_blank"}] 
 
 
 - F.P.A. Coolen,  **T. Coolen-Maturi**  (2024). Survival Signature for Reliability Quantification of Large Systems and Networks. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) System Dependability - Theory and Applications. DepCoS-RELCOMEX 2024. Lecture Notes in Networks and Systems, vol 1026. Springer, Cham. [[preprint version](pdfs/Coolen-DepCos24.pdf){:target="_blank"}] [[Link](https://doi.org/10.1007/978-3-031-61857-4_3){:target="_blank"}] 
