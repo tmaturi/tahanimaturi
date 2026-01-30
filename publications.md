@@ -9,7 +9,8 @@ title: Publications
 ### To appear
 
 
-
+- S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir (2026). Comparative Study of Reproducibility of Ranked Set Sampling Methods,
+Journal of Statistical Theory and Practice. [[preprint version](pdfs/JSTP_Rehman_acc_260129.pdf){:target="_blank"}]
 
 - Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
 
