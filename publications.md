@@ -12,7 +12,6 @@ title: Publications
 - S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir (2026). Comparative Study of Reproducibility of Ranked Set Sampling Methods,
 Journal of Statistical Theory and Practice. [[preprint version](pdfs/JSTP_Rehman_acc_260129.pdf){:target="_blank"}]
 
-- Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2025). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
 
 
 - A.M.A. Aldawsari, F.P.A. Coolen and **T. Coolen-Maturi** (2025). A Novel Parametric Predictive Bootstrap Method, Communications in Statistics – Theory and Methods, to appear. [[preprint version](pdfs/Paper1_TCM_20250513_rev.pdf){:target="_blank"}]
@@ -27,6 +26,7 @@ Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_
 ### 2026
 
 
+- Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, 55(7), 1–31. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
 
 
 - J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2026). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 94(1), 152–169. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]  [[Link](https://doi.org/10.1080/00220973.2024.2405738){:target="_blank"}] 
