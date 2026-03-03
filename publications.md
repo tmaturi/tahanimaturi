@@ -9,9 +9,6 @@ title: Publications
 ### To appear
 
 
-- S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir. Comparative Study of Reproducibility of Ranked Set Sampling Methods,
-Journal of Statistical Theory and Practice. [[preprint version](pdfs/JSTP_Rehman_acc_260129.pdf){:target="_blank"}]
-
 
 
 - A. Simkus, F. P. A. Coolen, **T. Coolen-Maturi**, N. A. Karp and C. Bendtsen . Evaluation of  Bootstrap Methods for Coverage Estimation and Prediction Accuracy with Small Samples, Communications in Statistics - Simulation and Computation. [[preprint version](pdfs/Andrea_Bootstrap_Small_Samples.pdf){:target="_blank"}]
@@ -25,6 +22,10 @@ Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_
 - K.O. Alyazidi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric Predictive Inference for the Single-Period Inventory Model. Journal of the Operational Research Society, to appear. [[preprint version](pdfs/JORS_NPI_inventory_accepted.pdf){:target="_blank"}]
 
 ### 2026
+
+- S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir (2026). Comparative Study of Reproducibility of Ranked Set Sampling Methods,
+Journal of Statistical Theory and Practice, 20, 38. [[preprint version](pdfs/JSTP_Rehman_acc_260129.pdf){:target="_blank"}]
+
 
 - A.M.A. Aldawsari, F.P.A. Coolen and **T. Coolen-Maturi** (2026). A Novel Parametric Predictive Bootstrap Method, Communications in Statistics – Theory and Methods, 55, 8, 2582–2602. [[preprint version](pdfs/Paper1_TCM_20250513_rev.pdf){:target="_blank"}]
 
