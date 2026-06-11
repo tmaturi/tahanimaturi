@@ -15,7 +15,9 @@ title: Publications
 
 
 
+- M. A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). On the Performance of Nonparametric Predictive Inference-Based Classification Trees under Noisy Data. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/Masad_Paper_20260310_rev_DRO.pdf){:target="_blank"}]
 
+  
 - A.A. Alharbi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Direct Nonparametric Predictive Inference Classification
 Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
 
@@ -29,7 +31,7 @@ Journal of Statistical Theory and Practice, 20, 38. [[preprint version](pdfs/JST
 
 - A.M.A. Aldawsari, F.P.A. Coolen and **T. Coolen-Maturi** (2026). A Novel Parametric Predictive Bootstrap Method, Communications in Statistics – Theory and Methods, 55, 8, 2582–2602. [[preprint version](pdfs/Paper1_TCM_20250513_rev.pdf){:target="_blank"}]
 
-- Masad A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, 55(7), 1–31. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
+- M. A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference, Communications in Statistics – Theory and Methods, 55(7), 1–31. [[preprint version](pdfs/Masad_Paper_20250430_rev.pdf){:target="_blank"}]
 
 
 - J. Einbeck, **T. Coolen-Maturi**, G. Uwimpuhwe, A. Singh (2026). A comparison of threshold-free measures for assessing the effectiveness of educational interventions. The Journal of Experimental Education, 94(1), 152–169. [[preprint version](pdfs/EEF_gain_index_paper_JEE.pdf){:target="_blank"}]  [[Link](https://doi.org/10.1080/00220973.2024.2405738){:target="_blank"}] 
