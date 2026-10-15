@@ -31,7 +31,6 @@ title: Research
 
 - Ms Taghreed Ghazai Alnefaie. `Nonparametric Predictive Inference for Reliability of Multi-State Systems'  (started October 2022; 1st supervisor Prof Frank Coolen). 
 
-- Mr  Rakan Alrekayan:  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
 
 
 
@@ -47,6 +46,8 @@ title: Research
 
 ### Past PhD students
 <br>
+
+- Mr  Rakan Alrekayan (2026):  `Nonparametric Predictive Inference for Regression' (started January 2022; jointly supervised by Frank Coolen).
 
 - Ms Hadeer Ghonem (2025): `Contributions to Nonparametric Predictive Inference: Classification and Performance Evaluation'  (2nd supervisor Frank Coolen),   Department of Mathematical Sciences, Durham University. [[Link]](http://etheses.dur.ac.uk/16348/). 
 
