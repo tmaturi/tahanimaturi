@@ -9,23 +9,27 @@ title: Publications
 ### To appear
 
 
-- F. I.  Alshihry, T. Coolen-Maturi, F. P. A. Coolen. Nonparametric Predictive Inference for Ranking and Selection, Journal of Statistical Theory and Practice. [[preprint version](pdfs/Fatimah_Paper1_rev.pdf){:target="_blank"}]
 
-- F. I.  Alshihry, F. P. A. Coolen, T. Maturi, . Nonparametric Predictive Inference for Ranking and Selection using Loss Functions, International Journal of Approximate Reasoning. [[preprint version](pdfs/Fatimah_Paper2_rev_v2.pdf){:target="_blank"}]
-
-- A. Simkus, F. P. A. Coolen, **T. Coolen-Maturi**, N. A. Karp and C. Bendtsen . Evaluation of  Bootstrap Methods for Coverage Estimation and Prediction Accuracy with Small Samples, Communications in Statistics - Simulation and Computation. [[preprint version](pdfs/Andrea_Bootstrap_Small_Samples.pdf){:target="_blank"}]
+- F. I.  Alshihry, F. P. A. Coolen, **T. Maturi**. Nonparametric Predictive Inference for Ranking and Selection using Loss Functions, International Journal of Approximate Reasoning. [[preprint version](pdfs/Fatimah_Paper2_rev_v2.pdf){:target="_blank"}]
 
 
 
-- M. A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). On the Performance of Nonparametric Predictive Inference-Based Classification Trees under Noisy Data. Communications in Statistics - Simulation and Computation, to appear. [[preprint version](pdfs/Masad_Paper_20260310_rev_DRO.pdf){:target="_blank"}]
+
 
   
-- A.A. Alharbi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Direct Nonparametric Predictive Inference Classification
-Trees. Journal of Applied Statistics, to appear. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
 
-- K.O. Alyazidi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric Predictive Inference for the Single-Period Inventory Model. Journal of the Operational Research Society, to appear. [[preprint version](pdfs/JORS_NPI_inventory_accepted.pdf){:target="_blank"}]
 
 ### 2026
+
+- A. Simkus, F. P. A. Coolen, **T. Coolen-Maturi**, N. A. Karp and C. Bendtsen (2026). Evaluation of  Bootstrap Methods for Coverage Estimation and Prediction Accuracy with Small Samples, Communications in Statistics - Simulation and Computation, 1–27. [[preprint version](pdfs/Andrea_Bootstrap_Small_Samples.pdf){:target="_blank"}]
+
+- M. A. Alrasheedi, **T. Coolen-Maturi**, F. P. A. Coolen (2026). On the Performance of Nonparametric Predictive Inference-Based Classification Trees under Noisy Data. Communications in Statistics - Simulation and Computation, 1–22. [[preprint version](pdfs/Masad_Paper_20260310_rev_DRO.pdf){:target="_blank"}]
+
+- F. I.  Alshihry, **T. Coolen-Maturi**, F. P. A. Coolen (2026). Nonparametric Predictive Inference for Ranking and Selection, Journal of Statistical Theory and Practice, 20, 93. [[preprint version](pdfs/Fatimah_Paper1_rev.pdf){:target="_blank"}]
+
+- A.A. Alharbi, F.P.A. Coolen and **T. Coolen-Maturi** (2026). Direct Nonparametric Predictive Inference Classification
+Trees. Journal of Applied Statistics, 1–27. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
+
 
 - S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir (2026). Comparative Study of Reproducibility of Ranked Set Sampling Methods,
 Journal of Statistical Theory and Practice, 20, 38. [[preprint version](pdfs/JSTP_Rehman_acc_260129.pdf){:target="_blank"}]
@@ -41,6 +45,8 @@ Journal of Statistical Theory and Practice, 20, 38. [[preprint version](pdfs/JST
 
 
 ### 2025
+
+- K.O. Alyazidi, F.P.A. Coolen and **T. Coolen-Maturi** (2025). Nonparametric Predictive Inference for the Single-Period Inventory Model. Journal of the Operational Research Society, 1–13. [[preprint version](pdfs/JORS_NPI_inventory_accepted.pdf){:target="_blank"}]
 
 - Norah D. Alshahrani, **T. Coolen-Maturi**, F. P. A. Coolen (2025). On Statistical Reproducibility of Normality and
 Equality of Variances Tests, Journal of Statistical Theory and Practice, 19, 81. [[preprint version](pdfs/RP_Normality_Variance_Tests_20250803.pdf){:target="_blank"}]
