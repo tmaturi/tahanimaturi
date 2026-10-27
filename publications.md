@@ -11,6 +11,8 @@ title: Publications
 
 - F. I.  Alshihry, T. Coolen-Maturi, F. P. A. Coolen. Nonparametric Predictive Inference for Ranking and Selection, Journal of Statistical Theory and Practice. [[preprint version](pdfs/Fatimah_Paper1_rev.pdf){:target="_blank"}]
 
+- F. I.  Alshihry, F. P. A. Coolen, T. Maturi, . Nonparametric Predictive Inference for Ranking and Selection using Loss Functions, International Journal of Approximate Reasoning. [[preprint version](pdfs/Fatimah_Paper2_rev_v2.pdf){:target="_blank"}]
+
 - A. Simkus, F. P. A. Coolen, **T. Coolen-Maturi**, N. A. Karp and C. Bendtsen . Evaluation of  Bootstrap Methods for Coverage Estimation and Prediction Accuracy with Small Samples, Communications in Statistics - Simulation and Computation. [[preprint version](pdfs/Andrea_Bootstrap_Small_Samples.pdf){:target="_blank"}]
 
 
