@@ -13,6 +13,8 @@ title: Publications
 - F. I.  Alshihry, F. P. A. Coolen, **T. Maturi**. Nonparametric Predictive Inference for Ranking and Selection using Loss Functions, International Journal of Approximate Reasoning. [[preprint version](pdfs/Fatimah_Paper2_rev_v2.pdf){:target="_blank"}]
 
 
+- A. A. R.  Alharbi, **T. Maturi**, F. P. A. Coolen. Nonparametric Predictive Inference for Multiple Future
+Ordinal Observations, International Journal of Approximate Reasoning. [[preprint version](pdfs/IJAR-Alharbi-rev.pdf){:target="_blank"}]
 
 
 
