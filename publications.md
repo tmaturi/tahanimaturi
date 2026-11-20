@@ -30,7 +30,7 @@ Ordinal Observations, International Journal of Approximate Reasoning. [[preprint
 - F. I.  Alshihry, **T. Coolen-Maturi**, F. P. A. Coolen (2026). Nonparametric Predictive Inference for Ranking and Selection, Journal of Statistical Theory and Practice, 20, 93. [[preprint version](pdfs/Fatimah_Paper1_rev.pdf){:target="_blank"}]
 
 - A.A. Alharbi, F.P.A. Coolen and **T. Coolen-Maturi** (2026). Direct Nonparametric Predictive Inference Classification
-Trees. Journal of Applied Statistics, 1–27. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
+Trees. Journal of Applied Statistics, 53(14), 2831–2857. [[preprint version](pdfs/paper_DirectNPI2Dec2025.pdf){:target="_blank"}]
 
 
 - S. Abdul Rehman, **T. Coolen-Maturi**, F. P. A. Coolen,  J. Shabbir (2026). Comparative Study of Reproducibility of Ranked Set Sampling Methods,
